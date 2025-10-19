@@ -14,9 +14,9 @@ def main():
     print(validated)
 
     valid_count = (validated["status"] == "Valid").sum()
-    print(valid_count)
-    invalid_count = (validated["status"] == "Invalid").sum()
-    print(invalid_count)
+    print("Valid entries :", valid_count)
+    invalid_count = (validated["status"] == "Needs Review").sum()
+    print("Needs review :", invalid_count)
 
 if __name__ == "__main__":
     main()
