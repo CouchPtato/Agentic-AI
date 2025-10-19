@@ -1,0 +1,1001 @@
+provider_id,name,phone,email,address,specialty,license_no,website
+1,Patricia Schneider,218.405.6752x77639,gomezalison@example.net,"79309 Mcdonald Mission, Steelehaven, MA 81070",Orthopedics,LIC19679,https://www.patriciaclinic.com
+2,Kathy Wright,896.587.4402,jleonard@example.com,"USCGC Lewis, FPO AP 57240",Neurology,LIC51592,https://www.kathyclinic.com
+3,David Caldwell,(623)914-9098x348,christine81@example.com,"173 Cobb Estate Apt. 232, Beasleyfort, NC 77119",Cardiology,LIC59953,https://www.davidclinic.com
+4,Trevor Johnson,393-460-6887,andreachavez@example.org,"68316 Dana Inlet Suite 766, West Joshua, WV 08639",Orthopedics,LIC25564,https://www.trevorclinic.com
+5,Larry Moore III,001-328-938-9575x9353,samuelchavez@example.net,"016 Cunningham Port, Jasonbury, ME 78722",Gynecology,LIC15326,https://www.larryclinic.com
+6,Kenneth Cabrera,001-686-442-2158x93880,zfry@example.com,"490 Laura Gateway, Port Nancyshire, NE 99395",Gynecology,LIC48049,https://www.kennethclinic.com
+7,Angela Clark,562-764-9029x216,yrogers@example.org,"01831 Rice Extensions, Andrewport, WI 28053",Psychiatry,LIC72540,https://www.angelaclinic.com
+8,Brandon Simmons,880.273.0256x172,rtorres@example.org,"92694 Tammy Road Suite 713, New Vanessa, PW 60464",Cardiology,LIC50462,https://www.brandonclinic.com
+9,Jessica Carter MD,9066817395,parkerdarlene@example.com,"Unit 3353 Box 5286, DPO AE 92154",Dermatology,LIC90918,https://www.jessicaclinic.com
+10,Bryan Williams,(750)820-3411,lopezchristopher@example.com,"045 Green Shore, North Jennifermouth, AK 62527",Neurology,LIC34529,https://www.bryanclinic.com
+11,Joan Harris,424-886-9801x49888,kristina12@example.com,"791 Benjamin Views, Fishermouth, ID 83362",Psychiatry,LIC87066,https://www.joanclinic.com
+12,Angela Donovan,(593)252-1950,zburke@example.com,"7429 Lee Loaf, Port Diane, VT 47636",Psychiatry,LIC22600,https://www.angelaclinic.com
+13,Amber Benitez,(720)573-1906x389,angela24@example.net,"641 Hill Ridges Suite 119, East John, GU 16679",Orthopedics,LIC59280,https://www.amberclinic.com
+14,Gary Freeman,001-467-725-1040,darlenereese@example.net,"122 Gutierrez Lane Apt. 740, Danieltown, FL 94479",Ophthalmology,LIC14580,https://www.garyclinic.com
+15,Candice Gordon,001-282-285-9728,michelleward@example.com,"229 Martin Dam Apt. 002, Candaceland, NM 34848",Cardiology,LIC86080,https://www.candiceclinic.com
+16,Kimberly Mathis,(630)948-2807x71897,belindafigueroa@example.com,"16207 Robert Vista, Port Stephenport, KY 78253",Pediatrics,LIC24036,https://www.kimberlyclinic.com
+17,Roger Fuentes,(496)451-5601x1843,jesparza@example.com,"USNS Mclean, FPO AE 39565",Orthopedics,LIC67986,https://www.rogerclinic.com
+18,David Perry,(864)295-8058x940,rsantana@example.net,"66237 Flores Meadows Suite 871, Russellshire, OR 08466",General Medicine,LIC77604,https://www.davidclinic.com
+19,Alan Scott,+1-578-836-1121x484,jonathan37@example.com,"50270 Lee Spring Suite 181, New Kurtville, AR 39225",General Medicine,LIC28473,https://www.alanclinic.com
+20,Mr. Thomas Grant,988.486.3982x43319,phillip39@example.org,"627 Steven Springs Suite 266, Marquezport, AK 23679",Psychiatry,LIC69038,https://www.mr.clinic.com
+21,Yvette Hernandez,262-563-9483x60475,dorseymichael@example.org,"87550 Pierce Gateway, Sullivanstad, OR 96028",Gynecology,LIC61667,https://www.yvetteclinic.com
+22,Mrs. Susan Stephens,001-205-803-7120x4667,mbryant@example.com,"4262 Elizabeth Underpass, Davidview, MI 14106",Pediatrics,LIC62747,https://www.mrs.clinic.com
+23,Tiffany Hurst,209.361.9674,david44@example.org,"68971 Amanda Hill, West Jeffreyborough, NH 88680",Neurology,LIC19317,https://www.tiffanyclinic.com
+24,Daniel Reed,7519509227,qhutchinson@example.com,"39710 Devon Pine Apt. 619, South Richard, WI 54960",Ophthalmology,LIC33381,https://www.danielclinic.com
+25,Latasha Neal,544-277-1442,kathleenmontoya@example.org,"28384 Alfred Bypass, Lake Rachelberg, MS 81152",Neurology,LIC20178,https://www.latashaclinic.com
+26,Douglas Mcgee,001-301-304-1147x906,tylerbryant@example.net,"6287 Anthony Way, Port Vincentside, WI 97225",Ophthalmology,LIC38252,https://www.douglasclinic.com
+27,Christina Davies,9458910391,jessicafischer@example.org,"82137 Dennis Lodge Apt. 055, Katherinefurt, AK 18335",Ophthalmology,LIC51410,https://www.christinaclinic.com
+28,Meghan Mayer,944-494-2051,youngmegan@example.net,"258 Davis Pike Apt. 277, Port Gregory, HI 73509",Urology,LIC52142,https://www.meghanclinic.com
+29,Edward Armstrong,267.556.3430,john93@example.org,"732 Kevin Ports, Sarahmouth, AR 79127",Gynecology,LIC74297,https://www.edwardclinic.com
+30,David Daniels,987-604-1962x6201,carriecrawford@example.net,"Unit 1444 Box 8578, DPO AA 24276",Ophthalmology,LIC18333,https://www.davidclinic.com
+31,William Davis,(253)687-3969x633,natasha38@example.org,"54237 Christina Forges Apt. 588, North Christopherfort, MS 76542",Psychiatry,LIC53348,https://www.williamclinic.com
+32,Elizabeth Johnson,343.838.7922x228,lynn25@example.com,"928 Brandon Trail Suite 836, Roseberg, NY 79026",Dermatology,LIC90975,https://www.elizabethclinic.com
+33,Brittany Bell,9117676744,williamswendy@example.org,"7604 White Expressway Apt. 446, Morganstad, NV 49336",Dermatology,LIC14078,https://www.brittanyclinic.com
+34,James Martinez,+1-399-879-2731,ruizeric@example.com,"7135 Carol Skyway Suite 414, North Christinafort, ME 66444",Dermatology,LIC54135,https://www.jamesclinic.com
+35,Julia Owen,(292)398-6164x2839,hardyjacob@example.com,"Unit 7751 Box 4764, DPO AP 32813",Ophthalmology,LIC61266,https://www.juliaclinic.com
+36,Sara Landry,637-412-6461,paul34@example.com,"366 Aaron Plains Suite 783, West Andrew, NH 02241",Orthopedics,LIC86077,https://www.saraclinic.com
+37,Thomas Gay,2644566112,nelsonpatricia@example.net,"58439 Martin Stream Suite 762, Mcintoshborough, WV 48722",Neurology,LIC43712,https://www.thomasclinic.com
+38,Suzanne Jones,+1-756-720-7706x54247,katherinemcintyre@example.net,"3930 Gina Fields, Graystad, OR 26944",Cardiology,LIC78603,https://www.suzanneclinic.com
+39,Cheryl Galvan,(850)424-0271,elizabeth20@example.org,"43665 Williams Brook Suite 412, Lake Yolanda, DE 92261",Gynecology,LIC25748,https://www.cherylclinic.com
+40,Leah Armstrong,(450)239-1704x36920,nwilliamson@example.com,"7596 Morgan Brook, Danielfort, PA 26101",Neurology,LIC82701,https://www.leahclinic.com
+41,David Green,7387176753,michael47@example.com,"804 Neal Square, Danielburgh, WA 76763",Cardiology,LIC22630,https://www.davidclinic.com
+42,Robert Hubbard,998.655.0861x407,laura93@example.org,"42064 Harris Cape Suite 479, Port Marymouth, MD 27780",Neurology,LIC63220,https://www.robertclinic.com
+43,Patricia Vasquez,(608)476-3619x9714,jamesmendez@example.org,"2717 Nolan Plains Apt. 819, Lisafort, PR 23203",Gynecology,LIC67273,https://www.patriciaclinic.com
+44,Gregory Chavez,628-733-4621,morgan96@example.com,"8886 Kim Shores Apt. 111, Marksmouth, MD 96382",Pediatrics,LIC88344,https://www.gregoryclinic.com
+45,Mrs. Kathy Leblanc MD,(615)316-7486x2462,nicole73@example.org,"PSC 5905, Box 4302, APO AA 47512",Orthopedics,LIC13131,https://www.mrs.clinic.com
+46,Andrew Johnson,692.754.1000x034,apacheco@example.net,"6213 Robert Landing, Port Amanda, OR 51297",Psychiatry,LIC76013,https://www.andrewclinic.com
+47,Emily Hart,881-732-0744x726,arielhenderson@example.net,"20975 Reyes Island Suite 921, Garciatown, VT 62717",Psychiatry,LIC44080,https://www.emilyclinic.com
+48,Kelly Hill,909.393.5428x3463,frazierjennifer@example.com,"8850 Foster Land, Michellefurt, ID 69141",Dermatology,LIC16337,https://www.kellyclinic.com
+49,Erin Montgomery,8355109471,jbrown@example.org,"085 Paul Parks, New Darryl, ND 96914",Pediatrics,LIC73105,https://www.erinclinic.com
+50,Darlene Wood,001-494-847-1538,onelson@example.org,"PSC 5575, Box 9377, APO AE 64306",General Medicine,LIC94042,https://www.darleneclinic.com
+51,Samantha Gonzalez,936-378-3605x286,sanchezbrian@example.net,"6622 Christine Fords, East Christina, WV 97009",Neurology,LIC54911,https://www.samanthaclinic.com
+52,William Rivera,7068795224,riosgabriela@example.net,"257 Hurley Mountain Suite 074, Gloriachester, WI 69265",Cardiology,LIC39494,https://www.williamclinic.com
+53,Sarah Wright,+1-638-754-0542x142,timothyhernandez@example.com,"3524 Shawn Underpass, Cooperstad, CT 18540",Cardiology,LIC27695,https://www.sarahclinic.com
+54,Diana Johnson,+1-390-320-5372x23980,andersonkimberly@example.org,"3524 Marc Dam, North Josephside, VA 03601",Neurology,LIC54108,https://www.dianaclinic.com
+55,Mary Moore,2396417949,keith81@example.org,"183 Riddle Lakes, Hardingberg, AR 42077",General Medicine,LIC82564,https://www.maryclinic.com
+56,Kathy Fleming,(626)611-0577,mallen@example.com,"3446 Vega Lodge, Danielside, NV 59262",Psychiatry,LIC99657,https://www.kathyclinic.com
+57,Stanley Johnson,001-462-709-0195x21543,omaxwell@example.net,"02589 James Forges, Reidstad, HI 81729",General Medicine,LIC87657,https://www.stanleyclinic.com
+58,William Hill,+1-429-586-5959x624,angela41@example.org,"069 Joseph Track, Port Donna, UT 67458",Gynecology,LIC24608,https://www.williamclinic.com
+59,Casey Flores,+1-547-579-9579x6908,michaelmurphy@example.org,"Unit 3145 Box 6788, DPO AA 31653",Psychiatry,LIC23896,https://www.caseyclinic.com
+60,Shannon Schneider,4602283172,manningsean@example.org,"8345 Robert Port, East Daniel, MT 52595",Gynecology,LIC74080,https://www.shannonclinic.com
+61,Richard Turner,+1-816-601-4709x6834,barkermichael@example.com,"PSC 7542, Box 4414, APO AE 15688",Psychiatry,LIC17500,https://www.richardclinic.com
+62,Cheryl Fletcher,001-222-583-2443x81852,david56@example.org,"649 Virginia Oval Apt. 667, Port Ashley, WI 83559",Neurology,LIC88220,https://www.cherylclinic.com
+63,Douglas Murray,(933)677-2355,bbrown@example.org,"345 Sosa Dam, Ballchester, TN 88456",Cardiology,LIC48305,https://www.douglasclinic.com
+64,Susan Gonzalez,8693450585,andrewsjoel@example.org,"06314 Harold Manor Apt. 741, Antoniomouth, MO 27414",Cardiology,LIC20554,https://www.susanclinic.com
+65,Ronald Hensley,001-637-711-2455x302,simpsonmatthew@example.org,"27936 Smith Extensions Suite 617, Mendezshire, TN 77258",Dermatology,LIC21327,https://www.ronaldclinic.com
+66,Bethany Rose,001-764-726-7832x3553,clarksamantha@example.net,"PSC 5297, Box 7013, APO AE 68225",Pediatrics,LIC37073,https://www.bethanyclinic.com
+67,Tasha Ward,745-371-7146,nallen@example.net,"619 Matthews Lakes, North Matthewchester, IN 22697",Ophthalmology,LIC65439,https://www.tashaclinic.com
+68,Wanda Thomas,(682)583-1022x042,greenanthony@example.org,"8652 Snyder Ramp, West Christineton, OR 81532",Ophthalmology,LIC85005,https://www.wandaclinic.com
+69,Julie Diaz,913.918.7727,smithsara@example.org,"0857 Miles Brooks, Hectorland, FL 26840",Neurology,LIC97035,https://www.julieclinic.com
+70,Nicole Wood,746-897-1394,ckey@example.com,"8803 Wang Port, South Josephview, NC 35876",Ophthalmology,LIC19266,https://www.nicoleclinic.com
+71,Benjamin Lopez,(868)353-7966x211,alicia02@example.org,"2513 Virginia Park Suite 582, Jenniferbury, MN 96678",Neurology,LIC37155,https://www.benjaminclinic.com
+72,Monique Brown,916.882.4980,lisa62@example.net,"10697 Nelson Crossroad Apt. 720, Andreton, AK 00921",General Medicine,LIC20673,https://www.moniqueclinic.com
+73,Janice Leblanc,001-288-237-5294x948,xsoto@example.org,"4816 Brittany Club, Anthonyfort, NY 93689",Orthopedics,LIC12743,https://www.janiceclinic.com
+74,Erik Rodriguez,001-643-233-8628x112,josephcruz@example.com,"1293 Rhonda Mountain Apt. 326, West Kimberlychester, PW 35599",Pediatrics,LIC56639,https://www.erikclinic.com
+75,Jennifer Wong,001-816-972-0224x2091,xthomas@example.org,"96719 Ware Mall, South Bethton, ND 20192",Gynecology,LIC83266,https://www.jenniferclinic.com
+76,Melissa Hopkins,279-540-7635x529,rickygrant@example.com,"645 Carey Skyway, Wallaceton, OH 54678",Gynecology,LIC46678,https://www.melissaclinic.com
+77,Melody Wise,+1-216-495-5531,shawnle@example.com,"41173 Charles Fort, North Timothy, VI 03884",Pediatrics,LIC54212,https://www.melodyclinic.com
+78,Gabrielle Ellis,963.211.2146x8241,dianapacheco@example.net,"9879 Stafford Bridge, West Adamfurt, PR 80472",Orthopedics,LIC80702,https://www.gabrielleclinic.com
+79,Matthew Barron,(734)974-1677x27330,jenniferberger@example.net,"28082 Nicole Parks, New Chad, ME 82980",Neurology,LIC92188,https://www.matthewclinic.com
+80,Lynn Rodriguez,001-659-966-5018x49136,deborah34@example.org,"25894 Walker Divide Apt. 156, Brownport, NV 79107",Cardiology,LIC11074,https://www.lynnclinic.com
+81,Sharon Hunter,(345)946-4021x639,jsanders@example.net,"84922 Gomez Isle Apt. 982, South Joshua, WI 74449",Gynecology,LIC36719,https://www.sharonclinic.com
+82,John Stevenson,311.570.9225,westjustin@example.com,"499 Barrett Forge Suite 813, Hamiltonshire, CA 10628",Orthopedics,LIC53221,https://www.johnclinic.com
+83,Jonathan Banks,572-515-8134x95420,judymiller@example.com,"Unit 9133 Box 7663, DPO AE 50041",Cardiology,LIC69763,https://www.jonathanclinic.com
+84,Chloe Sanchez,489.349.0777,rsellers@example.org,"930 Johnson Haven, Griffithshire, VT 44833",Urology,LIC78355,https://www.chloeclinic.com
+85,Teresa Harris,(358)846-7577x318,mary51@example.net,"149 Henderson Rest Suite 070, Gonzalezberg, HI 69426",Psychiatry,LIC10848,https://www.teresaclinic.com
+86,Richard Harmon,870.228.5777,sean94@example.net,"74276 Carlos Fords, Alvarezland, CO 89690",Neurology,LIC93580,https://www.richardclinic.com
+87,Elizabeth Miller,001-690-351-7736x617,dyerjames@example.com,"59606 Stephen Plaza Suite 332, Thomasbury, ME 84497",Neurology,LIC36036,https://www.elizabethclinic.com
+88,Dr. Charles Wilkins,(821)235-4756x45261,laurarice@example.org,"7436 Allison Route Suite 134, Garymouth, AR 28882",Orthopedics,LIC10088,https://www.dr.clinic.com
+89,Theresa Miller,779-640-4565,charlesschmidt@example.com,"582 Kenneth Villages Suite 810, East Amandaside, IN 54452",Dermatology,LIC97327,https://www.theresaclinic.com
+90,Sean Mcneil,839-596-1024x443,hillholly@example.net,"1156 Lopez Bypass, Millerfurt, MT 95525",Cardiology,LIC46508,https://www.seanclinic.com
+91,Elizabeth Cunningham,816.264.7998,meganfoster@example.net,"5648 Rios Road Apt. 526, West Todd, AR 48433",Gynecology,LIC12091,https://www.elizabethclinic.com
+92,Joseph Nguyen,893.767.0403,tinamclaughlin@example.com,"Unit 2533 Box 8322, DPO AE 18257",Neurology,LIC28803,https://www.josephclinic.com
+93,Heather Hart,+1-740-255-6370x33081,jasonreed@example.net,"USNS Rodriguez, FPO AA 22786",Ophthalmology,LIC84087,https://www.heatherclinic.com
+94,Dakota Davis,329-818-3697x6211,amber69@example.org,"4946 Kimberly Inlet Suite 134, North Michelle, CT 66277",Dermatology,LIC83582,https://www.dakotaclinic.com
+95,Melissa Hicks,324.513.1623,yhodge@example.org,"411 Brown Vista Suite 199, Mezatown, NH 43652",Neurology,LIC53333,https://www.melissaclinic.com
+96,Cory Hall,362-433-6395x241,whitelinda@example.org,"USS Davis, FPO AA 14263",Urology,LIC70471,https://www.coryclinic.com
+97,Pamela Hardy,6297365792,jennifernorman@example.com,"406 Ryan Summit, West Blake, SC 55346",Psychiatry,LIC51864,https://www.pamelaclinic.com
+98,Brittany Diaz,684-654-1052x3913,fjones@example.net,"7512 Jennifer Street, New Vincent, WV 72610",Gynecology,LIC17550,https://www.brittanyclinic.com
+99,Heather Johnston,632-538-5113x6290,nguyenjennifer@example.net,"599 Adrienne Square, West Joshuafort, NJ 83010",Urology,LIC18373,https://www.heatherclinic.com
+100,Crystal Sanford,279.802.5600x30550,wmccoy@example.net,"3463 Eric Hill Suite 341, South Lucasfort, DE 62944",Dermatology,LIC63033,https://www.crystalclinic.com
+101,Maria Morton,+1-422-390-9944x20606,brownjulie@example.net,"94506 Young Stream, Kelseyberg, MH 78316",Psychiatry,LIC73268,https://www.mariaclinic.com
+102,Robert Brown,467-770-5875x3513,scottwalter@example.com,"9391 Le Coves Apt. 372, South Carla, ME 61556",Psychiatry,LIC98879,https://www.robertclinic.com
+103,Mark Hall,786.578.6885,vgarcia@example.com,"PSC 0304, Box 5343, APO AA 05817",Gynecology,LIC49699,https://www.markclinic.com
+104,Jacob Finley,318-577-7788,michele22@example.org,"3962 Jennifer Walks Apt. 862, Lake Christophermouth, ME 23229",Dermatology,LIC37394,https://www.jacobclinic.com
+105,Michael Williams,+1-975-711-2713x97429,williamsdestiny@example.net,"18376 Christian Fork, Lake Shannon, MT 12889",Ophthalmology,LIC77180,https://www.michaelclinic.com
+106,Danny Zavala,(780)893-2173,adam94@example.com,"03383 Ryan Unions, Lake Steven, NM 64979",Urology,LIC52119,https://www.dannyclinic.com
+107,Anne Chavez,(593)556-8127,ccampbell@example.net,"2471 Hernandez Land, East Amandashire, MP 84361",Gynecology,LIC48828,https://www.anneclinic.com
+108,Jennifer Miller,(486)873-1888x136,katherine64@example.org,"7562 Green Points, East Douglas, NV 40679",Cardiology,LIC19755,https://www.jenniferclinic.com
+109,Joseph Anderson,+1-263-756-3818x24452,jeffreypatrick@example.net,"310 Krystal Roads, Joanmouth, MO 44910",Cardiology,LIC99997,https://www.josephclinic.com
+110,Kayla Rogers,001-994-332-6196x754,nstevens@example.com,"9684 Antonio Islands Suite 428, Port Sarah, CT 40128",Neurology,LIC88601,https://www.kaylaclinic.com
+111,Randy Meza,(791)939-6154,sjames@example.com,"95352 Alexander Rest Suite 312, North Pamelamouth, IN 91900",Ophthalmology,LIC62680,https://www.randyclinic.com
+112,Tracey Lynch,809-955-0601,gregorydavid@example.com,"86644 David Wells Apt. 641, Crystalville, FL 34681",Neurology,LIC23440,https://www.traceyclinic.com
+113,Sabrina Lopez,(774)820-6272,armstrongangela@example.net,"163 Holly Unions, Kimberlychester, MP 39715",General Medicine,LIC36105,https://www.sabrinaclinic.com
+114,Keith Morrison,672.958.3621,shortrichard@example.org,"431 Andrade Forks, North Lauraport, DC 28091",Cardiology,LIC77601,https://www.keithclinic.com
+115,Nicholas Cabrera,001-753-975-4134x7934,brittany44@example.com,"PSC 9630, Box 5125, APO AE 84752",Ophthalmology,LIC60909,https://www.nicholasclinic.com
+116,Justin Horn,(424)612-5031x298,kblackwell@example.net,"PSC 6041, Box 4598, APO AP 51930",Orthopedics,LIC70358,https://www.justinclinic.com
+117,Kenneth Collins,814.455.9894,julia31@example.com,"211 Perez Freeway, Harrisview, SC 79329",Ophthalmology,LIC85971,https://www.kennethclinic.com
+118,Christy Johnson,572-444-6907,wagnerronnie@example.net,"6228 Raymond Trail Suite 748, East Benjaminhaven, MH 68416",Dermatology,LIC25733,https://www.christyclinic.com
+119,Lee Oconnor,516-900-5759,pnguyen@example.org,"25217 Michael Ridge, West Melissahaven, IA 85932",Pediatrics,LIC56541,https://www.leeclinic.com
+120,Melvin Cain,001-979-866-0116x92009,kaitlin60@example.org,"0168 Tina Spur, Christineburgh, WY 66475",General Medicine,LIC66574,https://www.melvinclinic.com
+121,Matthew Frost,001-846-252-3197x58024,gallagherelizabeth@example.org,"45663 Porter Springs Apt. 180, New Jessica, CT 50702",General Medicine,LIC43035,https://www.matthewclinic.com
+122,Morgan Johnson,518-612-6409x7541,smiller@example.com,"1112 Derrick Turnpike Apt. 502, Port Stacey, OK 68240",General Medicine,LIC26308,https://www.morganclinic.com
+123,Amanda Mathis,(276)326-4157,shawnrobles@example.net,"9357 Cathy Ramp, Wilcoxborough, OK 92970",Ophthalmology,LIC54155,https://www.amandaclinic.com
+124,Michael Porter,+1-206-609-8286,ramirezemily@example.com,"01917 Joseph Way Suite 855, East Davidborough, CA 17394",Cardiology,LIC61710,https://www.michaelclinic.com
+125,Alyssa Butler,517.510.8689x38421,jasonrobinson@example.org,"27481 Sanchez Summit Apt. 056, North Davidburgh, MN 03146",Urology,LIC96406,https://www.alyssaclinic.com
+126,Janice Martinez,(614)758-4152,erika03@example.org,"251 Ethan Streets, Karenberg, VA 64468",Ophthalmology,LIC48316,https://www.janiceclinic.com
+127,Tracy Crawford,+1-759-650-6863x970,brookspaula@example.com,"USNS Atkinson, FPO AE 70267",Ophthalmology,LIC24824,https://www.tracyclinic.com
+128,Melissa Moore,294-933-1184x34027,tcastillo@example.net,"95279 Delacruz Viaduct Suite 803, North Mary, MA 72801",Cardiology,LIC20053,https://www.melissaclinic.com
+129,John Wells,(624)416-3563x362,michael45@example.org,"7377 Devin Canyon Apt. 344, South Garrett, ID 73404",Neurology,LIC75836,https://www.johnclinic.com
+130,Andrea Graves,001-990-550-3790x9881,zachary62@example.net,"663 Murphy Common Suite 142, Brittanyville, ID 71021",Pediatrics,LIC98382,https://www.andreaclinic.com
+131,Jeremiah Willis,251.902.7154,thomas88@example.org,"758 Tamara Islands, Samanthaland, FM 53169",Neurology,LIC18145,https://www.jeremiahclinic.com
+132,Colin Fletcher,737-356-4989,joe70@example.org,"25368 Wilcox Inlet, Port Michael, WV 41937",Urology,LIC95892,https://www.colinclinic.com
+133,Daniel Hernandez,001-874-616-3135x924,clarkpatrick@example.net,"4888 Cesar Ferry, Ramirezport, NM 78525",Orthopedics,LIC13823,https://www.danielclinic.com
+134,Teresa Coleman,910-994-8445x177,lucas32@example.com,"465 Payne Junctions Apt. 071, Jacksontown, PR 28338",Ophthalmology,LIC54937,https://www.teresaclinic.com
+135,David Henderson,243.832.2914,nicole07@example.com,"33571 Charles Square, Savannahside, ND 31822",Cardiology,LIC32257,https://www.davidclinic.com
+136,Kaylee Smith,349-375-9203x73253,davidallen@example.com,"204 Hart Keys, Hallshire, NM 00783",Dermatology,LIC80315,https://www.kayleeclinic.com
+137,Carlos White,001-309-832-4447x062,angela52@example.org,"Unit 6121 Box 5640, DPO AE 94246",Urology,LIC17605,https://www.carlosclinic.com
+138,Melanie Riley,001-892-354-4114x185,patricia57@example.com,"24977 Johnson Trail Suite 697, Sandersberg, WI 57901",General Medicine,LIC70870,https://www.melanieclinic.com
+139,Andrew Mccullough,001-581-451-9297x462,emendez@example.com,"1604 Rivera Path, Michaelshire, VA 77303",Neurology,LIC93830,https://www.andrewclinic.com
+140,Joseph Torres,385.378.0950x83510,eobrien@example.org,"3702 Amy Summit Suite 767, Reynoldshaven, GA 88312",Dermatology,LIC34530,https://www.josephclinic.com
+141,Samuel Green,964-367-8393,kristarobinson@example.com,"084 Jeffrey Drives, East Kevinside, CO 52081",Psychiatry,LIC77542,https://www.samuelclinic.com
+142,Jay Johnson,303.949.9304,codyparker@example.net,"USS Price, FPO AE 97986",General Medicine,LIC82168,https://www.jayclinic.com
+143,Jenna Cook,337.402.7213,timothy65@example.net,"21345 Hill Bridge, Lake Eric, VI 08208",General Medicine,LIC30730,https://www.jennaclinic.com
+144,Vincent Garcia,(418)305-0895x974,ryancole@example.net,"33226 Rodriguez Inlet, New Megan, MD 98892",General Medicine,LIC69191,https://www.vincentclinic.com
+145,Amy Cuevas,2065663009,johnsonaaron@example.org,"396 Andrew Club Apt. 232, Port Michele, NM 75839",Pediatrics,LIC90635,https://www.amyclinic.com
+146,Kathleen Lee,001-519-802-0510,mooneyjennifer@example.org,"4046 Robert Meadow Suite 250, Markport, MI 16663",General Medicine,LIC89285,https://www.kathleenclinic.com
+147,Charles Rush,(772)286-2218,owenspatricia@example.org,"461 Sheila Field Suite 456, East Anthony, VT 18638",Gynecology,LIC93461,https://www.charlesclinic.com
+148,Nicholas Berg,397.517.4395,zgould@example.com,"40404 Teresa Viaduct, Wilsonland, VI 93851",Orthopedics,LIC36728,https://www.nicholasclinic.com
+149,William Dougherty,784-675-1012,santosgary@example.com,"5885 Amanda Camp Apt. 973, Millerbury, WV 95951",Pediatrics,LIC65144,https://www.williamclinic.com
+150,Mary Gutierrez,871.687.3916,kristenwilliams@example.net,"Unit 0092 Box 7564, DPO AA 41075",Neurology,LIC19546,https://www.maryclinic.com
+151,Nancy Hall,4133122757,denisevillanueva@example.net,"8318 Ortiz Green Apt. 926, East Wesley, ME 36279",General Medicine,LIC40113,https://www.nancyclinic.com
+152,Rebecca Dawson,9602064645,orice@example.net,"277 Schneider Glen, Sharonhaven, MT 34506",Orthopedics,LIC47151,https://www.rebeccaclinic.com
+153,Casey Long,(706)655-9379,michaelbranch@example.net,"169 Bernard Dam, East Carl, RI 83604",Gynecology,LIC35699,https://www.caseyclinic.com
+154,Nicholas Davis,340-432-0625x36267,martinandrew@example.net,"403 Fuller Plains, Port Kelly, WA 46052",Pediatrics,LIC78680,https://www.nicholasclinic.com
+155,Peggy Nguyen,685-892-6785,mdiaz@example.net,"57775 Graham Dam Suite 359, North Daniel, GA 89247",Dermatology,LIC21607,https://www.peggyclinic.com
+156,Andrew Hernandez,(870)842-8835x503,ophillips@example.org,"5647 Vincent Crest, North Justinburgh, GU 54630",Pediatrics,LIC81531,https://www.andrewclinic.com
+157,Alexis Brooks,001-742-464-8823x9519,moraamy@example.net,"USS Webb, FPO AA 28939",Ophthalmology,LIC82420,https://www.alexisclinic.com
+158,Dawn Graham,(434)387-7917,garrettleblanc@example.net,"6990 Moon River, East Scott, FM 59935",Pediatrics,LIC56220,https://www.dawnclinic.com
+159,Jack Gonzalez,921.631.1910x205,wrightluke@example.net,"5092 Pierce Summit Suite 454, Lake Robin, MO 13242",Orthopedics,LIC93953,https://www.jackclinic.com
+160,Melissa Hunt,698.307.3086,tanner22@example.net,"24878 Tina Crescent, Smithchester, VA 62444",Pediatrics,LIC10356,https://www.melissaclinic.com
+161,Lori Lucero,6145466435,deannawang@example.org,"4609 Michael Parkways, Harrisland, NE 72940",Ophthalmology,LIC42437,https://www.loriclinic.com
+162,Amber Cruz,+1-564-690-8671x8515,michelethomas@example.org,"89335 Lee Rapids Suite 310, Port Rodney, NE 61787",Dermatology,LIC17983,https://www.amberclinic.com
+163,Jacob Maxwell,6066928985,hlewis@example.org,"7242 Jeremy Corner Suite 199, South Danafort, VA 58532",Dermatology,LIC23987,https://www.jacobclinic.com
+164,Vincent Lewis,001-995-945-9864,lindsay01@example.net,"860 Lloyd Fort, Griffinmouth, MP 71885",Urology,LIC94092,https://www.vincentclinic.com
+165,Tim Davis,3599615630,taylorrodriguez@example.com,"0966 Hamilton Brook, Allenmouth, WV 02454",Dermatology,LIC41525,https://www.timclinic.com
+166,Francisco Anderson,(769)825-4186x915,moorenathan@example.com,"78369 Michael Prairie, North Amy, NM 48326",Cardiology,LIC69488,https://www.franciscoclinic.com
+167,Sherry Crane,862.760.7823x51729,tiffanyfuentes@example.com,"6324 Jamie Causeway, Port Joseport, OH 22787",General Medicine,LIC53649,https://www.sherryclinic.com
+168,Trevor Miller,(424)954-1606x80083,rdavis@example.com,"83702 Foster Grove, West Carly, MN 99616",Neurology,LIC48666,https://www.trevorclinic.com
+169,Emily Jones,(533)618-3232x00354,hannahrodriguez@example.com,"2785 Stephanie Centers, New Monicahaven, FL 87512",Psychiatry,LIC94358,https://www.emilyclinic.com
+170,Sandra Massey,952.816.3278,scott40@example.com,"36614 Michael Road Apt. 503, East Josephstad, MO 27132",Gynecology,LIC49784,https://www.sandraclinic.com
+171,Jeremiah Payne,7115716818,karenharrington@example.com,"Unit 8641 Box 4395, DPO AE 85752",Cardiology,LIC82750,https://www.jeremiahclinic.com
+172,William Vaughn,8256025229,shawnbrown@example.com,"798 Alicia Mountain Suite 574, Robertsside, VT 96084",Pediatrics,LIC89542,https://www.williamclinic.com
+173,Gregory Williams,633.877.0567x160,michaelwilliams@example.com,"5222 Michael Island Suite 861, Donaldville, IA 07161",General Medicine,LIC35514,https://www.gregoryclinic.com
+174,Daniel Kirk,001-960-752-2142x02766,beckjoseph@example.com,"5338 Cooper Landing Apt. 587, Port Brianhaven, MI 58252",General Medicine,LIC49363,https://www.danielclinic.com
+175,Cathy Gilbert,601.951.1098x44532,chanjaclyn@example.com,"Unit 9776 Box 3607, DPO AE 11787",General Medicine,LIC90147,https://www.cathyclinic.com
+176,Dwayne Swanson,+1-234-792-8767x315,vclay@example.com,"73228 Samantha Coves, Patriciaborough, MS 26018",General Medicine,LIC24640,https://www.dwayneclinic.com
+177,Debra Wilson,001-827-716-8331x38557,victoriacruz@example.net,"78292 Rita Unions, Caldwellstad, SD 94182",General Medicine,LIC63380,https://www.debraclinic.com
+178,Andrew Harris,304.720.8814x7102,garyburton@example.com,"48957 Campbell Point Suite 604, Ochoaview, MD 21576",Ophthalmology,LIC32715,https://www.andrewclinic.com
+179,Amanda Trujillo,947.206.0317x729,vchavez@example.net,"2539 Matthew Hills, Lloydtown, ME 38589",Ophthalmology,LIC74839,https://www.amandaclinic.com
+180,Michael Shannon,(379)467-0877x7027,wstein@example.com,"31791 Perkins Trail, Port Amandaview, GA 91176",Neurology,LIC41295,https://www.michaelclinic.com
+181,Jennifer Meadows,598.626.3724x123,alexander70@example.net,"286 Moss Street, Lake Morgan, IL 39822",Neurology,LIC22230,https://www.jenniferclinic.com
+182,Mckenzie Thompson,001-614-722-4611x12749,karenbrooks@example.org,"USNS Palmer, FPO AA 58353",Cardiology,LIC19539,https://www.mckenzieclinic.com
+183,John Greer,545-285-5981x2697,englishkaren@example.com,"306 Sabrina Junction, Lake Sabrinaland, VA 87690",Urology,LIC60446,https://www.johnclinic.com
+184,Rebecca Jones,(717)879-8462x10004,iwalters@example.com,"212 Phillips Fords, Lake Michaelaville, MN 21598",Gynecology,LIC21463,https://www.rebeccaclinic.com
+185,Patricia Austin,394-229-7014,henrywhite@example.com,"260 Buchanan Mall, Jenkinston, NJ 38276",Cardiology,LIC58301,https://www.patriciaclinic.com
+186,Melissa Bender,(506)560-1626x562,hessmary@example.org,"08536 Miller Valleys Suite 944, Petersonhaven, GU 08024",Dermatology,LIC10207,https://www.melissaclinic.com
+187,Judy Lane,(944)703-4464,charlotte11@example.org,"1264 Thomas Point Apt. 151, Murphyhaven, MS 48909",Cardiology,LIC20456,https://www.judyclinic.com
+188,Patricia Kim,(339)765-9125x03769,jason11@example.com,"74381 Dennis Fall Apt. 617, Port Michele, PW 88127",Urology,LIC83432,https://www.patriciaclinic.com
+189,Jason Gilbert,(350)464-1595x6455,christopher41@example.com,"USNS Mata, FPO AP 91856",General Medicine,LIC42930,https://www.jasonclinic.com
+190,Mark Richardson,(427)574-7257,qbrown@example.com,"2097 Johnson Place Apt. 521, Stephaniefort, WV 49955",Pediatrics,LIC37207,https://www.markclinic.com
+191,Nicole Yoder,(959)873-1992,william21@example.com,"733 Tammy Vista Suite 398, South Amyfort, WV 07315",Ophthalmology,LIC59473,https://www.nicoleclinic.com
+192,Donna Underwood,715.607.5017x060,dianasmith@example.com,"497 Andrew Mount Apt. 954, Brownside, GU 38905",Gynecology,LIC74949,https://www.donnaclinic.com
+193,Carolyn Horton,599-598-6828,bhanson@example.com,"9783 Baker Square Suite 041, North Kimberlyview, MP 71487",Gynecology,LIC30523,https://www.carolynclinic.com
+194,Logan Cooper,001-442-976-5950x417,andrea10@example.com,"9864 Hart Groves Suite 202, Jamesville, LA 28352",General Medicine,LIC60419,https://www.loganclinic.com
+195,Patricia Marshall,+1-256-287-2372x31015,sacosta@example.org,"618 Adams Lane Suite 209, Veronicaburgh, TX 67970",Neurology,LIC13559,https://www.patriciaclinic.com
+196,Danny Ramirez,001-692-769-5279x44467,williammartinez@example.com,"82461 Mendoza Mission, Williamland, SC 50651",General Medicine,LIC26560,https://www.dannyclinic.com
+197,Patricia Sellers,921-409-5180,zmcdaniel@example.org,"329 Torres Parkways Suite 205, South Johnstad, KS 76089",Urology,LIC67405,https://www.patriciaclinic.com
+198,Nancy Wilkins,932.228.8211x871,waltonrobert@example.org,"790 Conway Ville, Brianside, MD 85746",Pediatrics,LIC45172,https://www.nancyclinic.com
+199,Vicki Willis,001-886-998-1809x68500,dwhite@example.com,"8866 Molly Square, New Sarah, VT 09624",Gynecology,LIC10550,https://www.vickiclinic.com
+200,Kimberly Miller,+1-458-390-3617,ydickerson@example.org,"USNS Rodriguez, FPO AP 96131",Ophthalmology,LIC25031,https://www.kimberlyclinic.com
+201,Mrs. Diana Conner,(712)579-1216,nmccormick@example.net,"86453 Williams Landing, South Donnamouth, IL 54075",Ophthalmology,LIC70848,https://www.mrs.clinic.com
+202,Ralph Olson,371-606-8432x2258,donnajones@example.org,"8159 Lester Greens, Kleinside, KY 65424",Neurology,LIC35670,https://www.ralphclinic.com
+203,Shannon Cruz,2716891123,dwagner@example.net,"55666 Travis Point, North Miranda, NE 31278",Gynecology,LIC68008,https://www.shannonclinic.com
+204,Ian Hinton,904-736-6413x663,perrysara@example.com,"28927 Jill Ridge Suite 860, North Andrea, NM 01765",Psychiatry,LIC20111,https://www.ianclinic.com
+205,Robin Richardson,(237)326-4276,bryananderson@example.org,"914 Baker Mills, Torreston, OK 27354",Orthopedics,LIC10574,https://www.robinclinic.com
+206,Megan Casey,260-670-8615,jessicabishop@example.com,"982 Edward Valley Suite 146, East Johnshire, AR 92479",Urology,LIC52773,https://www.meganclinic.com
+207,Brian Galvan,+1-334-397-0370x72856,christinamartin@example.org,"Unit 3533 Box 4445, DPO AP 69164",Gynecology,LIC86852,https://www.brianclinic.com
+208,Mark Stevens,001-580-604-7671,meagan09@example.com,"93286 Richard Stream Apt. 260, South Darlene, TN 72746",Ophthalmology,LIC52969,https://www.markclinic.com
+209,Michael Pena,(421)469-6337,hreyes@example.com,"842 Diana Walks Suite 479, North Harold, ND 03197",Cardiology,LIC82632,https://www.michaelclinic.com
+210,Leonard Mitchell,879.710.7283x6098,karenrobles@example.org,"76057 Loretta Mountain Suite 827, South Susanfort, VT 48264",Orthopedics,LIC63723,https://www.leonardclinic.com
+211,Julia Stanley,001-754-321-2825x7232,morrownorma@example.net,"753 Jamie Run Apt. 870, New Kimberlyville, MH 28651",Dermatology,LIC46165,https://www.juliaclinic.com
+212,Heather Sherman,399.770.5417,briannayoung@example.net,"82515 Garrett Branch Apt. 649, New Amy, MI 14701",Pediatrics,LIC13850,https://www.heatherclinic.com
+213,Danielle Cox,001-578-878-5390x46092,tchavez@example.org,"15779 Christian Turnpike Apt. 719, East Ronnie, OK 92248",Neurology,LIC68630,https://www.danielleclinic.com
+214,Robert Macdonald,910-379-5731,ayalacourtney@example.org,"261 Michele Haven Apt. 540, North Michael, UT 48781",Pediatrics,LIC37796,https://www.robertclinic.com
+215,Nicolas Mills,859-692-6420,brandon84@example.com,"295 Zachary Mall, Alanbury, KS 36030",Urology,LIC13863,https://www.nicolasclinic.com
+216,Krystal Everett,331-389-6709x101,justincoleman@example.net,"6014 Michelle Haven Suite 228, New Cheryl, ME 42505",Dermatology,LIC77483,https://www.krystalclinic.com
+217,Brian Mendoza,542-326-5352,victoriacharles@example.net,"60243 Erica Village, Port Rhondachester, MH 57074",Ophthalmology,LIC38509,https://www.brianclinic.com
+218,Debra Campos,868-442-4078,keithjohnson@example.net,"38240 Daniel Plaza Suite 498, Lake Stevenport, NE 62759",Orthopedics,LIC77409,https://www.debraclinic.com
+219,Bobby Nelson,(979)812-2942,stanleydarryl@example.com,"52123 Robert Summit Suite 092, Kleinshire, IL 74078",Neurology,LIC27629,https://www.bobbyclinic.com
+220,Jose Holmes,(532)657-1507,barry18@example.net,"PSC 5470, Box 3417, APO AE 15202",Cardiology,LIC94942,https://www.joseclinic.com
+221,Joshua Graham,937.342.8421x202,hudsoncharles@example.net,"PSC 0223, Box 9337, APO AA 68283",Urology,LIC47347,https://www.joshuaclinic.com
+222,Christina Lambert,001-917-687-0345,hillcharlotte@example.com,"50404 Victoria Flats, Jamesmouth, MP 62849",Urology,LIC73990,https://www.christinaclinic.com
+223,Laura Sharp,001-732-949-1364x33323,cgreen@example.org,"09132 Myers Mills Suite 820, New Patricia, AR 96506",Gynecology,LIC90752,https://www.lauraclinic.com
+224,Benjamin Smith,432-311-3061x50161,ramosmichael@example.net,"68573 Elizabeth Heights, Lake Katherineburgh, VT 11663",Gynecology,LIC17782,https://www.benjaminclinic.com
+225,Jose Garcia,+1-259-706-1257x521,rickywalsh@example.net,"14753 Jackson Squares Suite 364, Hoganville, WY 56004",Ophthalmology,LIC14221,https://www.joseclinic.com
+226,Danny Brewer,491-467-5455x187,sdeleon@example.net,"1753 Christopher Ridges, South Lauraport, KY 93507",Gynecology,LIC66980,https://www.dannyclinic.com
+227,Brad Rivera,+1-556-926-6049x5853,david03@example.com,"3598 Jamie Key, Kellyborough, DE 80351",Neurology,LIC85545,https://www.bradclinic.com
+228,Andrea Norris,001-756-399-6778x968,christopher59@example.net,"154 Howell Village Suite 393, Roberttown, ID 46065",Neurology,LIC21537,https://www.andreaclinic.com
+229,Teresa Montes,415-873-3628x028,allenkatie@example.net,"5121 Miller Lake Apt. 294, North Adriana, VI 28990",Pediatrics,LIC80039,https://www.teresaclinic.com
+230,Helen Chambers,+1-767-679-1398x585,bryanriley@example.org,"97140 Andrade Overpass, North Michael, OR 93769",Orthopedics,LIC46293,https://www.helenclinic.com
+231,Travis Mendez,(724)823-2119x1284,munderwood@example.com,"4089 Douglas Keys Suite 297, Davidmouth, ME 44250",General Medicine,LIC44022,https://www.travisclinic.com
+232,Tonya Brown,+1-516-998-8965,michaellong@example.org,"949 Lance Fields, Hatfieldland, CA 87404",Cardiology,LIC89276,https://www.tonyaclinic.com
+233,Marc Franklin,(490)959-1917,joshuawong@example.net,"7351 Franklin Lake, Hoganside, FL 34467",Psychiatry,LIC50206,https://www.marcclinic.com
+234,Chris Moore,(720)445-3499,davisjohn@example.com,"2897 Richard Walks, Smithfort, AR 25891",Psychiatry,LIC72349,https://www.chrisclinic.com
+235,Brandon Wilson,001-326-532-6638x513,qgarcia@example.org,"99127 Wright Mews, Taylorview, MP 19655",Urology,LIC24308,https://www.brandonclinic.com
+236,Linda Castro,001-660-965-1293,angela30@example.org,"6236 Morrow Junction Suite 218, Carolmouth, TN 11634",Neurology,LIC53812,https://www.lindaclinic.com
+237,Victoria Cooper,(245)337-4007x4718,orosario@example.net,"38817 Samantha Lights, Garrettmouth, NE 81624",General Medicine,LIC29282,https://www.victoriaclinic.com
+238,Mary Jones,694.378.8954x917,phaney@example.com,"2165 Alicia Trace, South Laurenmouth, MP 81181",Pediatrics,LIC63850,https://www.maryclinic.com
+239,Elizabeth Jimenez DDS,967.257.1291,vincentnguyen@example.net,"59162 Stewart Lane Suite 739, West Roberthaven, AK 39522",Orthopedics,LIC68250,https://www.elizabethclinic.com
+240,Jo Nelson,544.670.9766x01393,pamelaknapp@example.com,"280 Jennifer Forge Apt. 629, South Barbaraton, WI 19633",Gynecology,LIC80699,https://www.joclinic.com
+241,Jesse Vega DDS,+1-806-971-1805x10033,boylesherri@example.org,"6010 Lambert Green, North Alexischester, NE 62720",Neurology,LIC35560,https://www.jesseclinic.com
+242,Wanda Hill,+1-281-748-3707x19367,kimberlyreed@example.org,"0659 Rivers Passage, East Heatherport, TX 71058",Neurology,LIC33910,https://www.wandaclinic.com
+243,Andrew Robinson,888-518-2265x48571,millerjames@example.org,"7352 Leslie Plain, Evansberg, HI 33969",Psychiatry,LIC81204,https://www.andrewclinic.com
+244,Patricia Sullivan,807.578.3578x408,smithgregory@example.org,"9634 Scott Mount, North Destinyview, MT 18731",Neurology,LIC92727,https://www.patriciaclinic.com
+245,Jean Goodman,(347)629-1260,pgarcia@example.net,"53071 Gina Crest, Jeremystad, SD 35947",Neurology,LIC66064,https://www.jeanclinic.com
+246,Julie Sanford,406.899.3597,vklein@example.com,"83192 Peggy Ville, Boyleside, NM 85685",Pediatrics,LIC25745,https://www.julieclinic.com
+247,Christopher Gibson,001-790-616-2271x47928,kingmichael@example.com,"6497 Danielle Haven Apt. 651, East Justinville, UT 03237",Cardiology,LIC90517,https://www.christopherclinic.com
+248,Mark Snyder,897-577-2848,laura19@example.org,"995 Zachary Brook, East Rhondabury, NJ 63443",Ophthalmology,LIC11903,https://www.markclinic.com
+249,Adam Dalton,+1-440-629-3981x9426,peter58@example.com,"Unit 4159 Box 7209, DPO AE 16177",Pediatrics,LIC92233,https://www.adamclinic.com
+250,Jessica Hahn,(440)881-0266,larry52@example.com,"3868 Valerie Valley, Justinland, SD 67092",Gynecology,LIC44985,https://www.jessicaclinic.com
+251,Ashley Jones,001-735-360-9934x6076,zcampos@example.com,"6187 Jimenez Rue Apt. 530, Douglasview, DE 35694",General Medicine,LIC66695,https://www.ashleyclinic.com
+252,Diane Smith,308.333.7157,williamsjason@example.net,"89321 Haas Land Suite 801, Castanedaton, OK 87267",Dermatology,LIC87204,https://www.dianeclinic.com
+253,Mark Golden,9859993895,scott09@example.com,"43053 Hanson Manors Apt. 156, Jonesshire, PW 52599",Neurology,LIC37342,https://www.markclinic.com
+254,Ashley Anderson,701.967.0292x64787,kblack@example.net,"69824 Gary Dale, Port Jonathan, OR 33462",Orthopedics,LIC92049,https://www.ashleyclinic.com
+255,David Meyer,514-606-9451,fjordan@example.com,"USCGC May, FPO AA 78715",Urology,LIC37337,https://www.davidclinic.com
+256,Mr. Max Gibson DVM,718-602-2782,zsmith@example.net,"99824 Velasquez Viaduct Suite 486, Hoffmanville, AS 44417",Orthopedics,LIC68463,https://www.mr.clinic.com
+257,Robert Bond,(538)501-4796x493,robertfrost@example.net,"125 Daniels Creek, Timothystad, VT 80109",Dermatology,LIC27858,https://www.robertclinic.com
+258,Lori Mitchell,258.957.6697,warnerherbert@example.org,"58637 Jenkins Terrace, Rogerstown, TX 71487",Gynecology,LIC23505,https://www.loriclinic.com
+259,Caroline Wilson,(447)254-6896,dillonfrank@example.net,"118 Ferguson Mall Apt. 784, Burnsmouth, VA 52172",Psychiatry,LIC77390,https://www.carolineclinic.com
+260,Jordan White,698-234-2275,steven98@example.net,"Unit 5644 Box 2915, DPO AP 61227",General Medicine,LIC98458,https://www.jordanclinic.com
+261,Brenda Nguyen,(432)985-9556,kevin60@example.com,"039 Ortiz Stravenue, Bradleychester, LA 21139",Ophthalmology,LIC24072,https://www.brendaclinic.com
+262,Sheryl Sanchez,594.903.4738x1085,cooperpaul@example.org,"546 Jessica Springs Suite 715, Lake Jeffrey, AS 45015",Dermatology,LIC60751,https://www.sherylclinic.com
+263,Angela Taylor,5989628613,garzajennifer@example.com,"71853 Bright Mission, Williamsborough, WA 39103",Orthopedics,LIC56559,https://www.angelaclinic.com
+264,Michael Duffy,(853)528-0179x49864,michaelcrosby@example.com,"7635 Natalie Centers Suite 379, Lake Michaelborough, SC 57485",Orthopedics,LIC64542,https://www.michaelclinic.com
+265,Vanessa Brown,(204)854-3088x888,yjohnson@example.com,"USS Harris, FPO AP 48232",Psychiatry,LIC40088,https://www.vanessaclinic.com
+266,Juan Cisneros,892-212-0401x5309,kennedymelanie@example.org,"51391 Deborah Avenue, Joseshire, MT 99325",Pediatrics,LIC98260,https://www.juanclinic.com
+267,Victoria Rodgers,403.388.2835,allison63@example.net,"6200 Jacob Springs, Goodwintown, VA 82353",Psychiatry,LIC46511,https://www.victoriaclinic.com
+268,Garrett Dickson,355-863-9522x613,robinkelly@example.org,"2747 Cruz Springs Apt. 293, South Adam, CA 51068",General Medicine,LIC57271,https://www.garrettclinic.com
+269,Lisa Garcia,622-963-7125,amiller@example.com,"2920 Jenkins Branch Suite 183, New Jenniferhaven, DC 92907",Orthopedics,LIC36817,https://www.lisaclinic.com
+270,Darren Lyons,(670)540-3875,lucas29@example.net,"80011 Alexander River Suite 963, Jasmineville, MN 12525",Orthopedics,LIC62909,https://www.darrenclinic.com
+271,Frank Williams,+1-529-503-2747x1525,walvarado@example.net,"548 Watkins Mews, Jayberg, AZ 80427",Dermatology,LIC27758,https://www.frankclinic.com
+272,Dylan Cole,(728)300-8629,andrewwiley@example.com,"4131 Timothy Falls, Pamelafort, MI 37161",Urology,LIC69924,https://www.dylanclinic.com
+273,Gregory Green,679.305.0199x61603,wsmith@example.net,"85495 Jerry Walks, North Brianfurt, NM 76356",Pediatrics,LIC80505,https://www.gregoryclinic.com
+274,Deanna Brown,001-470-518-0781x854,qcoleman@example.org,"604 James Light, Websterborough, DE 14305",Cardiology,LIC56747,https://www.deannaclinic.com
+275,Julia Thompson,(729)282-5259,whitney42@example.com,"533 Barrett River, Harrisonstad, GA 10824",Neurology,LIC13539,https://www.juliaclinic.com
+276,Laura Lara,603.619.2002,rodriguezcassandra@example.org,"92292 Vasquez Park, Maryfort, TN 00765",Dermatology,LIC70178,https://www.lauraclinic.com
+277,Anthony Rhodes,895.205.1325x15466,davisanita@example.com,"9116 Savannah Bridge Suite 610, Davisburgh, MP 22890",Dermatology,LIC88723,https://www.anthonyclinic.com
+278,Eric Carrillo,374.349.8076x6497,melissataylor@example.net,"40494 Sandra Mall Suite 781, Brandytown, MN 41991",Neurology,LIC89579,https://www.ericclinic.com
+279,Carrie Gomez,+1-240-446-4957x517,victor89@example.org,"3326 Howard Junction Suite 675, Lake Rhonda, MT 31215",Psychiatry,LIC16237,https://www.carrieclinic.com
+280,Mark Roberson,+1-805-352-2357x52492,johnsonandrew@example.com,"206 John Haven Suite 724, Larryburgh, AK 76623",Orthopedics,LIC70230,https://www.markclinic.com
+281,Becky Hammond,641-832-1543x95642,daniel83@example.org,"507 Singleton Locks Apt. 968, Jacksonchester, UT 13491",General Medicine,LIC16627,https://www.beckyclinic.com
+282,Lisa Hart,+1-565-672-5371x91850,daltonmoore@example.net,"836 Garcia Neck, Sarahton, ID 26488",Dermatology,LIC17138,https://www.lisaclinic.com
+283,Tyler Howe,(717)278-5047,ashleystanley@example.net,"788 Robert Village Suite 219, East Tamaramouth, KY 50486",Ophthalmology,LIC76433,https://www.tylerclinic.com
+284,Oscar Schroeder,001-891-599-8947,tgarcia@example.com,"6953 Mckee Street Suite 313, North Teresa, WA 83579",Psychiatry,LIC10622,https://www.oscarclinic.com
+285,David Acosta,001-640-479-0070x090,andrew66@example.com,"160 Sanchez Key Suite 177, Bobbyshire, SD 21618",General Medicine,LIC34489,https://www.davidclinic.com
+286,Heather Harris,610-296-1169,gomezdaniel@example.org,"4871 Linda Alley, Lutzstad, MT 86897",Dermatology,LIC98972,https://www.heatherclinic.com
+287,Crystal Ford,768.325.3348x1981,todddavis@example.net,"USCGC Reed, FPO AA 17702",Pediatrics,LIC79576,https://www.crystalclinic.com
+288,Paul Diaz,450-446-2775,john41@example.net,"1422 Katelyn Ports Suite 684, East Jacqueline, NJ 50251",Dermatology,LIC22823,https://www.paulclinic.com
+289,Felicia Anderson,6299307786,darrylanderson@example.com,"Unit 7904 Box 9688, DPO AE 06690",Pediatrics,LIC44872,https://www.feliciaclinic.com
+290,Mr. Travis Le,001-757-629-2394x90359,msullivan@example.org,"9611 Vickie Road, North Tyler, WY 10862",Neurology,LIC44730,https://www.mr.clinic.com
+291,Brandon Moore,341.539.4977,edwardsmichael@example.org,"18794 Makayla Club Suite 257, Port Ashley, OH 67163",Ophthalmology,LIC41262,https://www.brandonclinic.com
+292,Brad Sanders,+1-935-802-4339x9456,dwayne85@example.org,"4979 Melinda Track, Justinhaven, RI 44529",Neurology,LIC82704,https://www.bradclinic.com
+293,Taylor Mccall,+1-794-623-6574x1567,fzimmerman@example.org,"410 Joseph Trafficway, North Gregoryshire, PR 01979",Neurology,LIC25283,https://www.taylorclinic.com
+294,David Smith,+1-923-380-0132x32313,jharris@example.net,"1076 Nicholas Lock, Nancyberg, AR 38516",Neurology,LIC89235,https://www.davidclinic.com
+295,Jeffrey Hansen,001-252-846-6362x273,austin73@example.org,"6741 Joseph Light Suite 375, North Gloriaview, SD 85624",Pediatrics,LIC79034,https://www.jeffreyclinic.com
+296,Tracie Odonnell,+1-421-577-1640x343,ystewart@example.org,"274 Jody Plaza, Amyport, NV 39899",Urology,LIC85398,https://www.tracieclinic.com
+297,Christopher Hill,+1-912-694-0764x0516,butlerelizabeth@example.org,"750 Duarte Harbor, West Sarahhaven, MN 30328",General Medicine,LIC89609,https://www.christopherclinic.com
+298,Matthew Henson,+1-756-628-2228x6334,james17@example.net,"Unit 5889 Box 8970, DPO AA 73118",Neurology,LIC12333,https://www.matthewclinic.com
+299,Cindy Christensen,+1-478-564-7845x601,mathew58@example.com,"2638 Paul Turnpike, Christineland, WI 32820",Psychiatry,LIC65403,https://www.cindyclinic.com
+300,Valerie Mitchell,001-303-724-1944x9667,troy61@example.net,"01952 Pitts Plaza Suite 377, East Randall, WI 40419",Pediatrics,LIC50339,https://www.valerieclinic.com
+301,Rachael Lane,(433)349-6046x593,sarah62@example.net,"6934 Robert Shore, Leachland, NM 65488",Urology,LIC43645,https://www.rachaelclinic.com
+302,Natalie Santiago,782-741-6202x8065,christopherthompson@example.org,"7860 Crystal Mission Apt. 164, Destinychester, CA 09870",Pediatrics,LIC50402,https://www.natalieclinic.com
+303,John Hensley,(924)203-3364x374,william25@example.org,"8502 Smith Meadow Suite 655, West Andrea, NM 97566",Urology,LIC87250,https://www.johnclinic.com
+304,Joshua Wood,(810)326-7989x42910,jacobsstanley@example.net,"78095 Deanna Manors, Tuckerton, CO 57658",Psychiatry,LIC26435,https://www.joshuaclinic.com
+305,Kristen Miller,(528)550-3947x343,pcunningham@example.net,"Unit 2886 Box 6235, DPO AE 90031",Dermatology,LIC13437,https://www.kristenclinic.com
+306,Rachel Hicks,+1-478-988-6419,djackson@example.com,"2593 Carter Island, Lake Aprilchester, OH 88963",General Medicine,LIC58529,https://www.rachelclinic.com
+307,Janet Sanchez,(665)252-3018,johnalvarado@example.com,"270 Joan Parkways Suite 390, South Gina, WV 48434",Orthopedics,LIC32838,https://www.janetclinic.com
+308,Thomas Gonzalez,633.732.7293x5024,robertsonjoshua@example.com,"8870 Lynch Grove Apt. 686, Jennifermouth, CT 35343",Pediatrics,LIC58063,https://www.thomasclinic.com
+309,James Anderson,(412)995-6547,wayne12@example.com,"06940 Rebecca Shores, North Herbertburgh, ID 27762",Cardiology,LIC37486,https://www.jamesclinic.com
+310,Tammy Ellis,297-655-9751x87748,kathryn60@example.com,"019 Kennedy Keys, New Margaret, FM 28240",Psychiatry,LIC11219,https://www.tammyclinic.com
+311,Ruth Chen,+1-327-618-0219x9931,jennifer36@example.net,"708 Alejandro Highway, Jamesstad, AK 31164",Urology,LIC90531,https://www.ruthclinic.com
+312,Mark Wong,766-729-1028,alvaradoryan@example.net,"915 Blake Shoal Apt. 290, Richfort, ME 66975",Cardiology,LIC64561,https://www.markclinic.com
+313,Gary Cooper,001-446-424-2328x1522,amy33@example.com,"48085 Rachel Ford, East Chelsea, LA 34370",Ophthalmology,LIC70282,https://www.garyclinic.com
+314,Alexa Washington,912.973.9668x20267,trevormckinney@example.net,"USCGC Harris, FPO AP 51191",Pediatrics,LIC24370,https://www.alexaclinic.com
+315,Jessica Bennett,(509)949-5236,theresaharris@example.org,"82400 Mariah Shoal Suite 817, Wellsberg, MD 43975",Neurology,LIC18075,https://www.jessicaclinic.com
+316,Stanley Mack,631.464.3390,jgeorge@example.net,"8230 Shane Crescent, Coleland, TN 35951",Gynecology,LIC27053,https://www.stanleyclinic.com
+317,Timothy Campbell,450-353-3353x214,jgrant@example.org,"790 Greene Stream, Martineztown, DE 71288",Orthopedics,LIC53884,https://www.timothyclinic.com
+318,Tanner Gilmore,(473)698-2162,johnsonvalerie@example.net,"5827 Powers Shoal Suite 241, Michaelfurt, HI 64754",General Medicine,LIC12617,https://www.tannerclinic.com
+319,Tammy Eaton,(450)292-5471x586,jasminetran@example.org,"23759 Savage Green Suite 046, South Kayla, MS 71007",Pediatrics,LIC64754,https://www.tammyclinic.com
+320,Matthew Moore,001-951-530-8772x051,johnnymiranda@example.net,"205 Sharon River Suite 450, Carterfort, KS 81209",Dermatology,LIC50427,https://www.matthewclinic.com
+321,Abigail Stein,915.395.9593,mrivera@example.org,"436 Steve Rapids Apt. 209, Aaronton, KY 05967",Neurology,LIC42991,https://www.abigailclinic.com
+322,Adrienne Rosales,(591)666-4115,lisa57@example.net,"450 Schwartz Viaduct, Karenside, MD 17277",Orthopedics,LIC51819,https://www.adrienneclinic.com
+323,Dana Rodriguez,495.563.8546x11137,vasquezmichael@example.net,"USNS Villanueva, FPO AP 12195",General Medicine,LIC15138,https://www.danaclinic.com
+324,John Mason,+1-430-714-9401x1334,xjackson@example.org,"341 Burke Ville, New Charlesborough, CA 53148",Orthopedics,LIC11850,https://www.johnclinic.com
+325,Benjamin Salas,+1-767-294-2591,james56@example.org,"8426 Hamilton Ridges Apt. 061, Markshire, NC 55566",Dermatology,LIC58142,https://www.benjaminclinic.com
+326,Michael Brennan,(732)303-1649x93500,pmann@example.com,"USNS Murray, FPO AE 90172",Psychiatry,LIC25169,https://www.michaelclinic.com
+327,Amanda Webb,332-954-9902x613,karen37@example.com,"489 Brown Cove, Mathisstad, NJ 60491",Gynecology,LIC68854,https://www.amandaclinic.com
+328,Wesley Young,001-952-859-5758x0710,burnsvanessa@example.com,"2545 Tucker Isle Apt. 463, East Shawn, DE 45650",General Medicine,LIC97011,https://www.wesleyclinic.com
+329,Charlotte Olsen,915.300.4648,michaelbishop@example.org,"80861 Reese Ways, Rebeccaport, CT 21994",Gynecology,LIC85077,https://www.charlotteclinic.com
+330,Laura Brown,485-842-8486x07311,zfriedman@example.com,"10225 Charles Mills Suite 266, Mcbridebury, MT 92633",Gynecology,LIC25769,https://www.lauraclinic.com
+331,Lisa Kim,(465)505-7277x2310,pcole@example.org,"726 Mcintosh Heights Suite 654, West Erin, CA 89943",Pediatrics,LIC84481,https://www.lisaclinic.com
+332,Joseph Russell,+1-716-241-2336x84971,alexanderjennings@example.com,"509 Estrada Light Apt. 451, New Mercedes, VT 02663",Dermatology,LIC47618,https://www.josephclinic.com
+333,Casey Mcdaniel,+1-707-495-4154,angela39@example.net,"USCGC Jones, FPO AP 87687",Orthopedics,LIC59849,https://www.caseyclinic.com
+334,Brandon Jones,225.975.4463x303,bryanpeterson@example.org,"PSC 5457, Box 0870, APO AE 96576",Cardiology,LIC47404,https://www.brandonclinic.com
+335,Brian Guzman,+1-579-322-5436x8013,stephen06@example.com,"98398 Vaughan Islands, Lake Nancychester, IA 02735",Dermatology,LIC16967,https://www.brianclinic.com
+336,Tony Poole,(828)460-9286,georgecatherine@example.org,"8172 Armstrong Vista Suite 088, Justinville, DC 13078",Urology,LIC85159,https://www.tonyclinic.com
+337,Scott Brown,(808)770-6961x7137,tracy24@example.org,"33714 Howard Rapids Suite 651, North Zachary, PW 19537",Orthopedics,LIC82098,https://www.scottclinic.com
+338,Shawn Medina,+1-394-326-8368x2540,sloanmary@example.org,"2887 Cooper Lake Suite 112, Lake Amberstad, PA 38822",General Medicine,LIC38200,https://www.shawnclinic.com
+339,Rachel Wallace,+1-343-299-5584x350,ipadilla@example.net,"910 Johnston Cove Apt. 736, Wilsonfort, OH 35136",Urology,LIC34386,https://www.rachelclinic.com
+340,Louis Ferguson,+1-903-877-8812x6539,erinsnyder@example.net,"6173 Burns Circles Apt. 129, Marychester, AR 67947",Psychiatry,LIC73205,https://www.louisclinic.com
+341,Curtis Schultz,237.831.6573x50257,lanejose@example.net,"692 Randall Plain Apt. 164, West Marcustown, MN 97479",General Medicine,LIC19807,https://www.curtisclinic.com
+342,James Cordova,+1-408-946-4146x32304,nfrost@example.org,"Unit 5757 Box 8817, DPO AA 51067",Dermatology,LIC49076,https://www.jamesclinic.com
+343,Jill Morales,477.853.0478x4458,millerjennifer@example.org,"532 Lee Common Apt. 306, Darrenstad, GA 32446",Cardiology,LIC87424,https://www.jillclinic.com
+344,Marissa Jenkins,(797)719-6238,john63@example.net,"63559 Amanda Road, West John, AR 54715",General Medicine,LIC42664,https://www.marissaclinic.com
+345,Allison Knight,9212934291,perkinssean@example.com,"501 Bates Cove Apt. 309, South Megantown, OH 50606",Orthopedics,LIC37637,https://www.allisonclinic.com
+346,Adam Arnold,275-246-6378,williamcantrell@example.com,"10624 Brown Causeway Apt. 985, Michaelmouth, MS 21403",Dermatology,LIC60224,https://www.adamclinic.com
+347,John Nichols,413-922-8393,rebeccaanderson@example.org,"473 Carlos Squares, Juliashire, MS 74059",General Medicine,LIC55361,https://www.johnclinic.com
+348,Christopher White,+1-621-490-4824x180,swells@example.org,"661 Bell Roads, Smithchester, MI 59171",Urology,LIC36626,https://www.christopherclinic.com
+349,Nancy Perez,001-617-842-9707x65268,anna57@example.com,"772 Gabriel Isle, Paulburgh, TN 93229",Neurology,LIC42546,https://www.nancyclinic.com
+350,Jeffrey Horn,001-243-563-3881x410,jbarajas@example.com,"9052 Bobby Creek Suite 566, New Darryl, RI 63141",Gynecology,LIC40275,https://www.jeffreyclinic.com
+351,Jose Ashley,389.459.5626x633,curtis96@example.net,"050 Mark Corner, Richardfort, NV 47729",Gynecology,LIC71011,https://www.joseclinic.com
+352,Heather Miller,001-295-933-9916x636,summersmith@example.com,"36131 Collins Trace, Frazierhaven, AK 82780",Neurology,LIC25189,https://www.heatherclinic.com
+353,Victoria Barron,294-803-9562x022,ljones@example.org,"874 Kennedy Shoal, East Jessicafort, NC 02680",Ophthalmology,LIC34109,https://www.victoriaclinic.com
+354,Gary Wolfe,(990)796-0145x91697,kingamanda@example.com,"070 Larry Manor, New Samuel, CA 16834",General Medicine,LIC85478,https://www.garyclinic.com
+355,Ashley Lopez,640.720.7069x25260,ustafford@example.net,"410 Little Trail, Paulview, WY 15037",Gynecology,LIC88490,https://www.ashleyclinic.com
+356,Barbara Hall,255-759-2192,elizabethsalazar@example.net,"6884 Wright Points Suite 387, Ronaldmouth, GU 41219",Cardiology,LIC77687,https://www.barbaraclinic.com
+357,Christine Roach,879.748.7397x1022,autumn99@example.net,"8829 Perkins Mall Apt. 241, Port Cynthiaside, GU 08137",Urology,LIC37474,https://www.christineclinic.com
+358,Joseph Mccarthy MD,+1-599-209-7576,jessicawilson@example.org,"991 Janice Shores Apt. 693, Lewischester, NY 53430",General Medicine,LIC83298,https://www.josephclinic.com
+359,Stacy Barry,+1-270-242-4763x307,lisa57@example.org,"112 Brennan Roads Apt. 711, South Andrew, WA 26617",Orthopedics,LIC76670,https://www.stacyclinic.com
+360,Sara Tyler,(345)626-9163x0469,tylerdavis@example.com,"50309 Robert Ways Suite 696, Lake Steven, TN 83829",Psychiatry,LIC87348,https://www.saraclinic.com
+361,Carolyn Cherry,6855997112,cheryl71@example.net,"2832 Stephanie Shores Suite 890, Lake Christopherfurt, FM 17955",Gynecology,LIC46269,https://www.carolynclinic.com
+362,Courtney Jones,+1-603-637-9199x259,robertpage@example.com,"67044 Benson Greens, Fryeside, AL 02669",Ophthalmology,LIC49366,https://www.courtneyclinic.com
+363,James Carey,6895328532,bcook@example.net,"928 Smith Dam Apt. 059, Longfort, PA 10314",Ophthalmology,LIC35934,https://www.jamesclinic.com
+364,Richard Russo,001-238-214-7936x93430,ileblanc@example.org,"6971 Morgan Vista Suite 931, Shawton, SC 79347",Pediatrics,LIC94681,https://www.richardclinic.com
+365,Kathleen Barajas,585.427.0341x5324,sheriparsons@example.com,"830 Powell Stravenue, Ericbury, DE 49129",Pediatrics,LIC65934,https://www.kathleenclinic.com
+366,Mr. Charles Nguyen,(244)650-2352,martinezamber@example.net,"USS Olson, FPO AE 26879",Gynecology,LIC44219,https://www.mr.clinic.com
+367,Jessica Salazar,289.637.3682x667,charlottetravis@example.net,"112 Phillips Bypass, Lake Amanda, KY 80995",Psychiatry,LIC21425,https://www.jessicaclinic.com
+368,Mary Sanders,797-708-0358x94525,hyoung@example.com,"1749 Shannon Road, Brettport, WI 72420",Dermatology,LIC64544,https://www.maryclinic.com
+369,Maria Larson,598-543-7161,timothy69@example.net,"3780 Katherine Ferry Apt. 274, Collinstown, SC 42542",Urology,LIC21664,https://www.mariaclinic.com
+370,Joseph Flynn,001-454-876-3847x0208,jhall@example.net,"81262 Lydia Branch Suite 715, North Daniel, RI 41020",Neurology,LIC93665,https://www.josephclinic.com
+371,Brian Black,297-416-1646x76409,christian43@example.net,"6692 Briana Turnpike, North Tyler, ID 94789",Cardiology,LIC93231,https://www.brianclinic.com
+372,Jennifer Kelly,(788)506-9239x657,mzuniga@example.com,"0158 Eric Ramp, Michelleport, PA 35826",Ophthalmology,LIC28413,https://www.jenniferclinic.com
+373,Blake Jenkins,814.799.7794x70317,austin27@example.com,"27487 Thomas Square Suite 209, Christinemouth, MP 26434",Gynecology,LIC19418,https://www.blakeclinic.com
+374,William Richards,853.704.5646,xhall@example.net,"309 Brown Islands, North Kent, GA 73293",Pediatrics,LIC20813,https://www.williamclinic.com
+375,Erica Gonzalez,440-679-5805,kayla31@example.net,"65707 Mcdonald Isle Apt. 396, Pagechester, WV 37314",Orthopedics,LIC53076,https://www.ericaclinic.com
+376,Emily Miller,+1-283-825-5038x48521,jenkinsgloria@example.org,"Unit 5226 Box 0690, DPO AA 47708",General Medicine,LIC50767,https://www.emilyclinic.com
+377,Steven James,583-587-0750,jjackson@example.net,"9954 Jennifer Divide Suite 920, Codyfurt, NH 26339",Ophthalmology,LIC61801,https://www.stevenclinic.com
+378,Sarah Coleman,244.954.2128,rogertaylor@example.org,"09785 Gregory Way Apt. 280, Brentfurt, PR 21313",Neurology,LIC38723,https://www.sarahclinic.com
+379,Gregory Davis,(304)227-1293x6050,daniel35@example.net,"852 Nicholson Landing Apt. 938, Hoganfurt, LA 45181",Dermatology,LIC34537,https://www.gregoryclinic.com
+380,Brenda Parks DDS,925-526-4793x455,katherinewilkerson@example.net,"186 Gina Villages, New Heathertown, NY 52145",Psychiatry,LIC84601,https://www.brendaclinic.com
+381,Katrina Long,627-345-5006,ipreston@example.net,"31833 James Inlet Apt. 185, Careyfurt, WA 12408",Psychiatry,LIC70214,https://www.katrinaclinic.com
+382,Sarah Browning,(808)821-2622x33645,leelori@example.com,"9798 Carolyn Port Apt. 830, Lake Briannaburgh, NJ 35275",Pediatrics,LIC90534,https://www.sarahclinic.com
+383,Jason Oneill,(789)238-9763,edwardsmichael@example.org,"670 Kevin Vista Apt. 143, Mahoneymouth, MS 95474",Neurology,LIC72768,https://www.jasonclinic.com
+384,Jennifer Mejia,+1-338-785-8616x377,floresnicholas@example.com,"677 West Pines Apt. 544, Davisshire, CO 46379",Neurology,LIC11641,https://www.jenniferclinic.com
+385,Lauren Davidson,942-520-3382,gina95@example.com,"960 Parker Stream, Harmonmouth, SC 54941",Neurology,LIC49669,https://www.laurenclinic.com
+386,Frank Sanchez,5053684634,kimberlyacosta@example.org,"8616 Smith Plain, Josephville, VA 26126",Gynecology,LIC56009,https://www.frankclinic.com
+387,Alex Stanton,5602322848,srivera@example.com,"730 Jamie Vista, Moyerville, OR 49287",General Medicine,LIC72047,https://www.alexclinic.com
+388,Benjamin Beasley,(827)898-3433,ericaclark@example.org,"5940 Kenneth Landing, Davisstad, OR 22758",Pediatrics,LIC38327,https://www.benjaminclinic.com
+389,Crystal Taylor,303.582.2095,shane25@example.net,"5046 Simon Run Suite 999, Valeriemouth, DE 55357",Neurology,LIC10783,https://www.crystalclinic.com
+390,Kathy Lee,752.605.9765,brenda25@example.net,"78864 Marie Plains, East Michelle, ME 95904",Pediatrics,LIC30727,https://www.kathyclinic.com
+391,Randy Powers,001-860-946-2961x105,amandaspencer@example.net,"645 Isaiah Forest, Pricemouth, MS 64209",Ophthalmology,LIC87632,https://www.randyclinic.com
+392,Danielle Doyle,(215)515-8321x8701,derekjohnson@example.org,"5025 Reese Oval, North Frederickhaven, MN 84142",Psychiatry,LIC62061,https://www.danielleclinic.com
+393,Anthony Torres,468-573-1659,matthewhernandez@example.org,"4886 Alyssa Bridge Apt. 120, Duartebury, LA 17972",Psychiatry,LIC80484,https://www.anthonyclinic.com
+394,Margaret Foster,6744121323,ldaniels@example.org,"82487 Ryan Motorway Suite 088, Normanmouth, TX 07863",Pediatrics,LIC23777,https://www.margaretclinic.com
+395,Willie Williams,001-751-968-5451x277,manningconnie@example.com,"45047 Andrade Harbors Apt. 445, West Courtney, FL 51596",Urology,LIC38229,https://www.willieclinic.com
+396,Betty Allen,(536)660-6910,castillomatthew@example.org,"USS Torres, FPO AP 07120",Neurology,LIC48324,https://www.bettyclinic.com
+397,Peter Duran,(550)558-3339x1609,george74@example.net,"28233 Sarah Overpass, New Zoeton, CO 92481",General Medicine,LIC95723,https://www.peterclinic.com
+398,Brittney Mitchell,257.876.0876,steve73@example.com,"2574 Brown Union, Susanland, IN 02799",Urology,LIC99302,https://www.brittneyclinic.com
+399,Heidi Smith,+1-660-506-0803x0016,shafferlance@example.net,"478 Griffith Rapids, South Nicole, KS 21881",Orthopedics,LIC15101,https://www.heidiclinic.com
+400,Kara Bailey,791-415-1927,dean43@example.net,"0726 Cheryl Mount Suite 113, Meyerhaven, SC 29704",Urology,LIC28308,https://www.karaclinic.com
+401,Riley Vega,994-993-8498,sandrawallace@example.net,"USS Gillespie, FPO AP 36408",Dermatology,LIC55559,https://www.rileyclinic.com
+402,Erin Hunt,+1-598-949-7378,briannaday@example.org,"745 Meghan Gardens, Leeborough, AK 39943",General Medicine,LIC72576,https://www.erinclinic.com
+403,Shannon Gomez,935.332.7275x26692,austin02@example.com,"837 Dorothy Walks Apt. 567, Mckayport, MA 47893",General Medicine,LIC76712,https://www.shannonclinic.com
+404,Elizabeth Mahoney,797-276-5377,daniellechristian@example.com,"4348 Gregory Greens Suite 514, New Debra, VA 53988",Orthopedics,LIC14035,https://www.elizabethclinic.com
+405,Brittany Key,+1-700-996-4003x8434,ruizanne@example.com,"78430 Soto Square, East Kaylafurt, ND 71570",General Medicine,LIC51636,https://www.brittanyclinic.com
+406,Melanie Turner,8883297345,hansenbill@example.org,"50767 Caitlin Center, Chavezside, FL 13983",Ophthalmology,LIC77777,https://www.melanieclinic.com
+407,Lisa Figueroa,(597)662-6162x5245,michaelspencer@example.org,"486 Williams Islands, Jasonborough, SD 02046",Pediatrics,LIC99509,https://www.lisaclinic.com
+408,David Smith,769.957.7486x0243,petermiller@example.org,"303 Howell Fall, South Michelle, GA 84969",Dermatology,LIC29584,https://www.davidclinic.com
+409,Amy Day,001-667-769-5843x26861,hcain@example.com,"3753 Cheryl Fords Suite 615, West Jeremyfort, ID 32434",Gynecology,LIC97505,https://www.amyclinic.com
+410,Hannah Holt,001-903-761-7296x93477,waltersjennifer@example.net,"721 Jones Meadow Apt. 771, South Andrewhaven, IA 03321",Cardiology,LIC26214,https://www.hannahclinic.com
+411,James Peters,(926)211-8303x921,karenbrown@example.org,"3981 Sarah Stravenue, North Robert, SC 20280",Orthopedics,LIC89885,https://www.jamesclinic.com
+412,Tammy Buck,279-970-0359x0142,hannah44@example.org,"835 Renee Unions Suite 112, Port Ashleyberg, AS 95167",Gynecology,LIC33191,https://www.tammyclinic.com
+413,Austin Smith,+1-734-418-7262x670,connerluis@example.net,"PSC 4393, Box 4008, APO AE 52783",Psychiatry,LIC27718,https://www.austinclinic.com
+414,Carlos Mitchell,842.550.1511x537,nicholasrobinson@example.net,"495 Rivers Unions, South Susan, WA 28944",Cardiology,LIC55981,https://www.carlosclinic.com
+415,Micheal Rodriguez,373.684.4549,pamela81@example.net,"2442 Burke Drive, Davidbury, MP 59302",Urology,LIC89000,https://www.michealclinic.com
+416,Jeanne Reyes,357.481.4465,mariafarmer@example.com,"81225 Collins Roads Suite 447, Port Charles, MP 63200",Gynecology,LIC37395,https://www.jeanneclinic.com
+417,Leah Lucero,672-207-0956x73382,rjones@example.net,"132 Monique Drive Apt. 934, Harperchester, AS 57623",Urology,LIC90640,https://www.leahclinic.com
+418,Theodore Baker,(328)910-8642,humphreyjames@example.net,"PSC 6046, Box 2054, APO AP 80886",Orthopedics,LIC47638,https://www.theodoreclinic.com
+419,Melvin Terrell,(866)629-9953x2204,ashleygentry@example.org,"97758 Eugene Via, Lake Marcusfurt, PW 46728",Orthopedics,LIC45123,https://www.melvinclinic.com
+420,Mary Holt,969.960.1812x0490,peckhenry@example.net,"459 Audrey Plaza Suite 179, Griffinchester, CT 35634",Neurology,LIC12506,https://www.maryclinic.com
+421,Neil Sanders,835-677-3297x20335,gduncan@example.com,"Unit 9139 Box 6379, DPO AA 31706",Urology,LIC76779,https://www.neilclinic.com
+422,Mary Johnson,(817)291-1251,ralphlopez@example.net,"8126 Schroeder Falls, Lake Jeffreyside, AL 75619",Pediatrics,LIC28209,https://www.maryclinic.com
+423,Donna Rice,(574)657-0573x361,luisharris@example.org,"5145 Robertson Pass Apt. 178, South Eric, NY 94461",Gynecology,LIC93819,https://www.donnaclinic.com
+424,Shannon Cox,469.660.1617,vnguyen@example.net,"6261 Robert Locks Apt. 790, Brettland, NE 40699",Psychiatry,LIC90489,https://www.shannonclinic.com
+425,Karen White,+1-212-572-6787x78816,brettreynolds@example.net,"4199 Morgan Plaza Suite 913, Hernandezton, SC 83221",Orthopedics,LIC52744,https://www.karenclinic.com
+426,Mary Clark,+1-284-443-6525x2935,thomasalicia@example.net,"25097 Taylor Course Apt. 331, Schmidtborough, WV 27422",General Medicine,LIC12487,https://www.maryclinic.com
+427,Ann Gomez,(417)560-5369x28768,lindsayreed@example.net,"38154 Foley Loaf, New Danielle, MN 67330",Pediatrics,LIC32360,https://www.annclinic.com
+428,Christian Blair,826-858-1377x7807,proy@example.com,"767 Jennifer Points Suite 754, Lake Shannonview, NV 18817",Pediatrics,LIC87388,https://www.christianclinic.com
+429,Jamie Thomas,001-308-220-3364x454,raycarrie@example.org,"1923 Amber Extension Suite 210, Robinsonberg, NM 54485",Ophthalmology,LIC73815,https://www.jamieclinic.com
+430,Eric Ryan,618-990-4754x44362,mitchelljessica@example.com,"32937 Cindy Run, Annetteport, NY 25744",Psychiatry,LIC78048,https://www.ericclinic.com
+431,Jacqueline Reese,970-323-8043,jamesmurray@example.org,"982 Dickson Spurs, East William, CT 98104",Cardiology,LIC74644,https://www.jacquelineclinic.com
+432,Monica Caldwell,+1-209-444-1273x51834,alexis70@example.com,"96526 Charles Street, Port Kenneth, NE 19587",Psychiatry,LIC11196,https://www.monicaclinic.com
+433,Amy Jordan,+1-649-971-4803,ikhan@example.org,"50966 Hoffman Ranch, North Paulside, AL 63763",Psychiatry,LIC31449,https://www.amyclinic.com
+434,David Livingston,413-688-1821,hunterdevin@example.com,"491 White Tunnel Suite 635, Annebury, FL 65946",Psychiatry,LIC17523,https://www.davidclinic.com
+435,Justin Smith,+1-350-587-8922x2029,asmith@example.com,"Unit 3294 Box 6435, DPO AA 57205",Neurology,LIC44812,https://www.justinclinic.com
+436,Rachel Griffin,+1-515-555-8965x143,mariamay@example.net,"Unit 4908 Box 0325, DPO AE 45515",Ophthalmology,LIC91868,https://www.rachelclinic.com
+437,Anna Sanchez,+1-705-783-3497x91176,xandrews@example.net,"6269 Jeffrey Green Apt. 491, Andrewsville, AR 36923",Cardiology,LIC31808,https://www.annaclinic.com
+438,Joseph Thomas,534.821.9435,darlene74@example.org,"0686 Fowler Valley Apt. 249, East Cassandra, FL 12564",Cardiology,LIC77461,https://www.josephclinic.com
+439,Jacob Valdez,+1-706-654-9320x073,cabrerabrenda@example.net,"501 Neil Island, North Markton, PW 78653",Cardiology,LIC85929,https://www.jacobclinic.com
+440,Michelle Conway,630-357-2276x43702,christopher28@example.net,"24970 Sandy Parks, Lopezview, KS 44496",General Medicine,LIC93296,https://www.michelleclinic.com
+441,Michael Herrera,264-517-5065,burnetttravis@example.net,"Unit 4359 Box 7924, DPO AP 27104",Urology,LIC75193,https://www.michaelclinic.com
+442,Michael Gallagher,213.272.2585x23619,ivan45@example.net,"7465 Michael Ports, West Maria, FM 84171",Psychiatry,LIC80898,https://www.michaelclinic.com
+443,Joseph Morgan,9168551700,ewhite@example.com,"8547 Olson Coves, Parkerbury, KY 28416",Cardiology,LIC24913,https://www.josephclinic.com
+444,Dennis Shields,+1-467-966-9989x2639,ryan31@example.net,"493 Armstrong Passage, Lake John, IA 92519",General Medicine,LIC83412,https://www.dennisclinic.com
+445,Deborah Mckee,504.926.5828,asanchez@example.org,"9216 Martin Extension, East Sethside, MI 45606",Pediatrics,LIC68492,https://www.deborahclinic.com
+446,Samantha Hart,001-216-911-7535x095,patrickdavis@example.com,"79148 Allison Harbors, South Susanside, OR 34841",Pediatrics,LIC14741,https://www.samanthaclinic.com
+447,Robin Mckinney,407.345.1850,hperez@example.com,"015 Melinda Creek, East Bobby, WV 45240",General Medicine,LIC68294,https://www.robinclinic.com
+448,Julia Andersen,210.362.6644x50356,susanparker@example.net,"PSC 9700, Box 6906, APO AP 39906",Orthopedics,LIC84723,https://www.juliaclinic.com
+449,Jennifer Wise,(521)425-4485x76502,andrewbest@example.com,"4996 Eric Circle, Castilloland, AZ 37360",Pediatrics,LIC27263,https://www.jenniferclinic.com
+450,Renee Torres,602-683-7292x9535,orozcojennifer@example.org,"24931 Linda Green, Richardhaven, AZ 28839",Psychiatry,LIC26995,https://www.reneeclinic.com
+451,Sarah Chapman,+1-639-947-2682,gracejones@example.org,"322 Washington Heights, Keithmouth, LA 53098",Cardiology,LIC37507,https://www.sarahclinic.com
+452,Jaime Taylor,001-380-761-1971x5657,zwoods@example.net,"81308 Mary Hills Apt. 910, Hartmanmouth, AL 55286",Dermatology,LIC96607,https://www.jaimeclinic.com
+453,Stephanie Webb,682-314-3087,freemanpamela@example.com,"48212 Rosales Island, Patriciaside, SC 81108",General Medicine,LIC51444,https://www.stephanieclinic.com
+454,Brian Berry,798-621-8716x8324,qmiller@example.net,"9397 Joseph Street, Bryantton, KY 04787",General Medicine,LIC50115,https://www.brianclinic.com
+455,Kevin Edwards,+1-835-565-1011x1303,jesuswilson@example.net,"4095 Ashley Turnpike, New Tracyton, NM 06243",Dermatology,LIC56714,https://www.kevinclinic.com
+456,Timothy Ball,+1-700-292-6970,owatson@example.com,"28938 Julie Street, East Nicholas, DC 92972",Gynecology,LIC75597,https://www.timothyclinic.com
+457,Tonya Patel,001-508-921-5153,eric09@example.org,"518 Barber Locks Suite 010, Huffmanberg, PR 52863",Dermatology,LIC14064,https://www.tonyaclinic.com
+458,Sandra Greer,865-311-6589x767,henry95@example.net,"7072 Torres Knolls, New Vanessaberg, MP 64492",Cardiology,LIC38486,https://www.sandraclinic.com
+459,Jorge Griffin,001-500-207-2444x694,wrightantonio@example.net,"482 Pruitt Prairie Suite 840, Lake Anthony, NY 20259",Urology,LIC45566,https://www.jorgeclinic.com
+460,Michael Jones,(228)400-9655,timothy90@example.org,"USCGC Johnson, FPO AA 57895",Psychiatry,LIC15038,https://www.michaelclinic.com
+461,Norman Harris,(233)877-9973x71390,martindoris@example.net,"0902 Levy Motorway, Anitamouth, ME 33210",Gynecology,LIC29543,https://www.normanclinic.com
+462,Jack Chavez,+1-864-670-8057,jobrien@example.com,"USCGC Barber, FPO AE 19969",Cardiology,LIC81364,https://www.jackclinic.com
+463,Patrick Gutierrez,+1-773-578-4212,ulevy@example.com,"85322 Emma Loop Apt. 784, South Saraville, AL 07780",Cardiology,LIC73732,https://www.patrickclinic.com
+464,Daniel Mathews,8569311312,brianbyrd@example.com,"648 Dean Center Apt. 642, Lake Aaron, OK 06276",General Medicine,LIC32795,https://www.danielclinic.com
+465,Lynn Castillo MD,869.494.7880x19998,samuelhaley@example.net,"Unit 7420 Box 3935, DPO AP 87113",Psychiatry,LIC41743,https://www.lynnclinic.com
+466,David Brewer,(835)332-1851,cholmes@example.org,"4723 Laurie Park, South Ashley, OK 89980",Urology,LIC35597,https://www.davidclinic.com
+467,Joshua Lynch,001-246-896-5244,dmueller@example.com,"213 Wright Drive Apt. 725, Bowmanport, FM 42137",Psychiatry,LIC81855,https://www.joshuaclinic.com
+468,Joshua Lane,914.249.2455,millscharles@example.com,"999 Joseph Union Apt. 397, Port Isaiahland, IA 83739",Pediatrics,LIC74899,https://www.joshuaclinic.com
+469,Denise Wilson DVM,706-971-1631,pamela45@example.com,"51793 Ann Fords Suite 068, New Davidport, AL 05172",Ophthalmology,LIC39401,https://www.deniseclinic.com
+470,Mr. James Brewer,001-764-552-2651x795,michelle67@example.net,"27015 Sharon Island, Leebury, OK 46378",Ophthalmology,LIC34923,https://www.mr.clinic.com
+471,Casey Henry,828.390.2348x14777,ysmith@example.com,"2953 Lori Avenue, Roachbury, AL 21082",Gynecology,LIC73892,https://www.caseyclinic.com
+472,Bobby Camacho,001-748-674-0077x54773,erica59@example.net,"88502 Perez Lodge Apt. 524, West Alanburgh, FM 67597",Psychiatry,LIC22724,https://www.bobbyclinic.com
+473,Jose Hall,641-240-5123,stevencarrillo@example.com,"11213 Brent Viaduct Suite 424, New Stevenfurt, UT 46432",Cardiology,LIC61636,https://www.joseclinic.com
+474,Adam Sanchez,(337)994-9373,brittneyedwards@example.net,"12027 Christopher Bridge, Gonzalezmouth, KS 77718",Ophthalmology,LIC73664,https://www.adamclinic.com
+475,Sara Silva,636-855-5156,anna06@example.net,"1580 Walker Grove Suite 481, Kochside, GU 35174",Pediatrics,LIC28143,https://www.saraclinic.com
+476,Sarah Palmer,963.989.5804,danielle57@example.com,"923 Armstrong Meadows, North Leeville, MI 60075",Gynecology,LIC61310,https://www.sarahclinic.com
+477,Mckenzie Benson,780.336.0773,hmcbride@example.org,"7461 Salazar Wall, New Melissa, NY 61631",Cardiology,LIC34435,https://www.mckenzieclinic.com
+478,Denise Hansen,8565016691,samanthagonzalez@example.net,"7452 Gloria Unions Suite 609, Hernandezchester, TX 68841",Neurology,LIC79509,https://www.deniseclinic.com
+479,Amber Garcia,662.411.0406x976,literry@example.net,"5489 Lynn Ridges, Lake Phillip, GU 34770",Neurology,LIC85336,https://www.amberclinic.com
+480,Jessica Barker,+1-811-300-1328x83097,forbesmatthew@example.net,"73586 Shannon Tunnel Apt. 929, Morrisfurt, VI 05889",Psychiatry,LIC86615,https://www.jessicaclinic.com
+481,Teresa Clark,492-372-6709x0981,angela08@example.org,"PSC 5381, Box 5809, APO AA 56592",Ophthalmology,LIC10142,https://www.teresaclinic.com
+482,Daniel Snyder,+1-758-334-5960x36822,virginiacarpenter@example.net,"57114 Watts Glen Suite 344, Stevensport, VT 59071",General Medicine,LIC79079,https://www.danielclinic.com
+483,Edward Norman,5176264510,wendy00@example.com,"656 John Ville, Mariaburgh, NJ 50956",Pediatrics,LIC30822,https://www.edwardclinic.com
+484,Sara Obrien,322-483-5268x84444,derekbradley@example.org,"USCGC Hamilton, FPO AA 24162",Dermatology,LIC75388,https://www.saraclinic.com
+485,Martha Ross,(965)837-2710x983,susan55@example.net,"9893 Jacqueline Extensions, Deannaview, IN 61413",Cardiology,LIC49515,https://www.marthaclinic.com
+486,Oscar Lynn,001-377-608-0978x5077,mcook@example.net,"983 Brittany Junctions, Evansview, HI 44537",Gynecology,LIC84615,https://www.oscarclinic.com
+487,Greg Miller,001-399-924-5729x894,yfoster@example.org,"PSC 0588, Box 3556, APO AP 12535",Gynecology,LIC51898,https://www.gregclinic.com
+488,Jared Chan,641-547-6244x1152,kimberly59@example.org,"0367 Simpson Point Suite 397, Lake Lisa, WV 01455",Ophthalmology,LIC97985,https://www.jaredclinic.com
+489,Jessica Bryan,693.589.4904,petersdouglas@example.com,"8340 Heidi Brook, Powersview, OH 63336",Cardiology,LIC85323,https://www.jessicaclinic.com
+490,Kevin Choi,(279)517-8766x3745,lschmitt@example.net,"09917 Connor Prairie, North Timothy, WA 01479",General Medicine,LIC31487,https://www.kevinclinic.com
+491,Jessica Sullivan,(846)712-0293x38976,stephanieroberts@example.com,"5863 Simmons Hill Apt. 125, Port Elizabeth, PW 38588",Orthopedics,LIC18768,https://www.jessicaclinic.com
+492,William Clayton,001-711-631-6863x895,andreakim@example.net,"594 Brian Common, Steventon, NY 15698",Gynecology,LIC48821,https://www.williamclinic.com
+493,Mark Morrison,+1-273-776-2887x3456,gilmorejose@example.org,"8604 Owens Gardens, Lake Denise, MA 48324",Neurology,LIC88467,https://www.markclinic.com
+494,Miguel Clark,+1-666-251-0063,zmullen@example.com,"925 Debra Ford, Charleston, NM 73112",Psychiatry,LIC61075,https://www.miguelclinic.com
+495,Angela Winters,208.300.8704,elizabeth59@example.com,"773 Nash Plaza Suite 889, Lake Thomasstad, SC 34870",Psychiatry,LIC16398,https://www.angelaclinic.com
+496,Richard Cross,967.658.5649x51479,leah95@example.org,"32857 Mitchell Mountains, Jacobville, MN 64702",Pediatrics,LIC11456,https://www.richardclinic.com
+497,James Woods,5162452113,glong@example.net,"92510 Lori Cove Apt. 749, East Michael, LA 96809",Psychiatry,LIC38749,https://www.jamesclinic.com
+498,Stephanie Wilson,(970)645-7065,fernandezmatthew@example.net,"505 Richards Square Apt. 281, Jesseton, TX 09347",Psychiatry,LIC24855,https://www.stephanieclinic.com
+499,Dale Kaiser,911.514.0338x99388,antonio68@example.net,"32393 Ryan Court Apt. 000, North Kevinbury, VA 67686",General Medicine,LIC90643,https://www.daleclinic.com
+500,Bethany Sullivan,554.245.9414,sullivandustin@example.net,"45589 Alicia Ville, New Sydneyborough, MN 47731",Gynecology,LIC94819,https://www.bethanyclinic.com
+501,Brooke Morrison,(967)539-5803x0239,samanthajohnson@example.net,"4490 Angela Landing Apt. 356, Richardstad, UT 22060",Gynecology,LIC91776,https://www.brookeclinic.com
+502,Theresa Smith,998.584.1701x5053,martinezbrenda@example.com,"4302 Young Expressway, East Neil, VI 45737",General Medicine,LIC90025,https://www.theresaclinic.com
+503,Tammy Arnold,(489)976-6362x1462,nsmith@example.net,"14536 Holly Forest, Williamshaven, DC 98674",Ophthalmology,LIC78295,https://www.tammyclinic.com
+504,Cameron Faulkner,835.882.5297x8092,timothy92@example.com,"935 Obrien Key Apt. 482, Port Donna, KY 92998",Neurology,LIC17419,https://www.cameronclinic.com
+505,Kathleen Gonzales,+1-723-839-2535x66503,william33@example.net,"80080 Brianna Lock, West Desireeton, MT 19927",Neurology,LIC42995,https://www.kathleenclinic.com
+506,Mr. Jason Williamson,+1-401-491-5207,stephanieshepard@example.net,"438 Christopher Walks, Francismouth, AR 71741",Dermatology,LIC70026,https://www.mr.clinic.com
+507,Jamie Williams,+1-223-635-8709x5936,npowell@example.net,"697 Charlene Course Apt. 006, Nicoleton, MI 36606",Gynecology,LIC50603,https://www.jamieclinic.com
+508,Samantha Boyer,+1-336-384-6030x85983,antonio79@example.com,"97176 Schmidt Circles Suite 961, Hughesview, OH 88928",Dermatology,LIC86114,https://www.samanthaclinic.com
+509,Robert Turner,+1-357-599-7721x51435,samuel37@example.net,"178 Anderson Passage, Bowenchester, DE 15141",Cardiology,LIC63752,https://www.robertclinic.com
+510,Jessica Lawrence,001-821-404-1510x575,edward41@example.com,"49547 Victoria Avenue, Port April, IL 17324",Cardiology,LIC78722,https://www.jessicaclinic.com
+511,Nathan Willis,9465339441,wendyrogers@example.net,"Unit 2003 Box 0949, DPO AP 17741",Dermatology,LIC60817,https://www.nathanclinic.com
+512,Jeffrey Mccoy,4679511141,alvarezbradley@example.com,"205 Anna Neck Suite 901, Mendozashire, MA 50554",Psychiatry,LIC87757,https://www.jeffreyclinic.com
+513,Thomas Willis,001-758-368-3090x10149,dawsonjessica@example.org,"047 Hunt Divide, East Kristin, MT 72367",Neurology,LIC91922,https://www.thomasclinic.com
+514,Kimberly Clark,5013954651,monica52@example.net,"92494 Gray Harbors Suite 045, Lake Ericaland, RI 15124",Psychiatry,LIC68228,https://www.kimberlyclinic.com
+515,James Green,218-528-6639x543,ujohnson@example.net,"71732 Shannon Drive, Lake Matthew, NY 63248",Psychiatry,LIC17586,https://www.jamesclinic.com
+516,Joseph Johnson,001-547-861-5674x09130,elizabethjohnson@example.org,"13697 Kimberly Forges, Barreramouth, SD 35872",General Medicine,LIC57136,https://www.josephclinic.com
+517,David Daniels,(741)649-4973,nashkristina@example.com,"11737 Williams Mill Apt. 878, Johnstonport, ID 94183",Ophthalmology,LIC58183,https://www.davidclinic.com
+518,Brian Villegas,(924)257-8424x520,mhubbard@example.org,"924 Michael Gardens, Michaelland, NV 13210",General Medicine,LIC94124,https://www.brianclinic.com
+519,Samantha Hernandez,583.784.3024,aparker@example.org,"20415 Parsons Mission, Eatonmouth, DC 56126",General Medicine,LIC99458,https://www.samanthaclinic.com
+520,Kevin Cole,221-513-9184x6391,christopher36@example.com,"2444 Laura Lights, Carolburgh, MD 91924",Orthopedics,LIC72117,https://www.kevinclinic.com
+521,James Gibson,(671)252-4222x45280,richardsjeffrey@example.org,"95507 Todd Ramp, Manuelmouth, FM 60853",Ophthalmology,LIC53049,https://www.jamesclinic.com
+522,Eric Hall,649-935-8594,emily93@example.net,"420 Timothy Isle, New Anthonyton, VT 33943",Cardiology,LIC46404,https://www.ericclinic.com
+523,Marc Davis,001-848-644-4988x987,saundersderek@example.com,"419 Hahn Alley, New Thomas, VA 62599",Pediatrics,LIC79692,https://www.marcclinic.com
+524,Madison Lewis,801-631-6937x41904,rogersjason@example.org,"83448 Jennifer Fork Suite 060, Melissaland, RI 48670",Orthopedics,LIC93799,https://www.madisonclinic.com
+525,Chloe Gomez,935-429-5468,gabriel13@example.net,"PSC 2923, Box 0378, APO AE 42884",Dermatology,LIC32054,https://www.chloeclinic.com
+526,Susan Woodward,+1-578-762-4316x9764,rodrigueznathan@example.net,"260 Dale Islands, Barbarabury, ID 46227",Orthopedics,LIC66098,https://www.susanclinic.com
+527,Daniel Cook,001-265-293-6639,justinmartinez@example.com,"500 Troy Isle, Foxland, MP 84825",Gynecology,LIC62059,https://www.danielclinic.com
+528,Felicia Gallagher,001-834-878-9442x8319,meyerjames@example.org,"7986 Rodriguez Square Apt. 537, North Derekshire, NE 80105",Ophthalmology,LIC47894,https://www.feliciaclinic.com
+529,Robert Luna,690-532-9153,dianeallen@example.org,"273 Kristina Springs, Timothyton, MI 59402",Ophthalmology,LIC62990,https://www.robertclinic.com
+530,Ruth Mitchell,001-885-327-4034x5669,lfrank@example.net,"569 Taylor Views Suite 604, Port Michaelchester, GU 30785",Gynecology,LIC68457,https://www.ruthclinic.com
+531,Matthew Rose,944-275-0355x543,alexisparker@example.net,"USNS Bond, FPO AE 87634",Orthopedics,LIC76452,https://www.matthewclinic.com
+532,Emily Rasmussen,249-455-9351x185,wlynch@example.net,"81899 Gilbert Dam Suite 799, Lake Jameshaven, ND 11989",General Medicine,LIC32536,https://www.emilyclinic.com
+533,Allison Davis,(484)738-1469x373,karenhaley@example.com,"5850 Susan Lane, Peckborough, MA 26921",Neurology,LIC21926,https://www.allisonclinic.com
+534,Kimberly Mendoza,001-353-202-5350x797,jacksonjason@example.net,"524 Terry Mountains Apt. 693, Lake Tiffanyborough, LA 50964",General Medicine,LIC72544,https://www.kimberlyclinic.com
+535,Beth Hall,235-970-5402x70138,jessica94@example.net,"81062 Herbert Mills Suite 995, Brandyview, TN 69577",Psychiatry,LIC84639,https://www.bethclinic.com
+536,Donald Ross,733-935-9629x1638,melissa53@example.org,"77748 Ramos Mountains, Kristopherfort, ME 84072",Orthopedics,LIC59136,https://www.donaldclinic.com
+537,Renee Hayes,001-470-355-7801x46441,hardinsamuel@example.org,"518 Chan Springs Suite 513, Derekport, MA 40564",Cardiology,LIC85732,https://www.reneeclinic.com
+538,Jennifer King,7304485687,vthomas@example.org,"4743 Harris Point, Lake Matthewberg, AS 56278",Urology,LIC59015,https://www.jenniferclinic.com
+539,Justin Nguyen,712-806-7872x372,paul50@example.com,"930 Dorsey Place Suite 814, North Ann, MI 47885",Psychiatry,LIC68812,https://www.justinclinic.com
+540,Dennis Johnson,+1-207-542-4036,adamwebb@example.com,"7655 Wiggins Highway Apt. 880, Colechester, MS 73363",Psychiatry,LIC44729,https://www.dennisclinic.com
+541,Steven Jones,916.283.1876x72980,randerson@example.com,"281 Troy Club, Port Heatherside, GA 22948",Ophthalmology,LIC46353,https://www.stevenclinic.com
+542,Mrs. Amanda Frey DDS,536-686-2747x47080,jack70@example.com,"26172 Mark Wells Suite 348, Port Manuel, AS 16751",Psychiatry,LIC25419,https://www.mrs.clinic.com
+543,Diana Moore,940-562-7915x3005,ipollard@example.com,"74894 Ramos Dam Suite 400, Murrayfurt, CO 39005",Pediatrics,LIC13188,https://www.dianaclinic.com
+544,James Whitehead,(997)572-3351x5611,hollowaydonna@example.net,"2725 Burton Mews, Port David, NH 15941",General Medicine,LIC50678,https://www.jamesclinic.com
+545,Mary Gordon,731-789-7672,andersonryan@example.org,"8780 Carter Shoals Suite 540, Bradleyburgh, ID 25703",Dermatology,LIC24132,https://www.maryclinic.com
+546,Elizabeth Solomon,+1-212-517-8320x429,munozchristina@example.com,"42464 Pineda Plaza Apt. 807, Salinasborough, VA 45226",Psychiatry,LIC87890,https://www.elizabethclinic.com
+547,David Barnes,+1-235-401-9516x2277,jenkinsrobert@example.net,"3267 Lewis Orchard, Aguilarchester, VA 90115",Pediatrics,LIC91989,https://www.davidclinic.com
+548,Margaret Baker,(493)679-9494,mcleanelizabeth@example.org,"7921 Erin Valleys, Lake Taraland, AL 70965",Cardiology,LIC16600,https://www.margaretclinic.com
+549,Adam Randall,512-541-4913x2836,christina16@example.com,"687 Sally Pass Suite 024, Barbaramouth, KY 86387",Dermatology,LIC92448,https://www.adamclinic.com
+550,Kristina Russell,(224)629-6310,robert76@example.org,"084 Stanley Drive, Jacobsville, NE 18813",Neurology,LIC26691,https://www.kristinaclinic.com
+551,Dawn Rodriguez,224.880.2512x88308,wolfsteven@example.com,"7492 Mccarty Greens, Bookerton, VT 74754",Orthopedics,LIC90316,https://www.dawnclinic.com
+552,Carl Swanson,001-657-329-6881x8388,kraymond@example.com,"4307 John Curve Suite 101, South Jessicaville, VT 27218",Psychiatry,LIC45844,https://www.carlclinic.com
+553,Angela Baldwin,447-883-1774x226,tchambers@example.com,"562 Thomas Well Apt. 886, Fosterville, NE 92750",Orthopedics,LIC46862,https://www.angelaclinic.com
+554,Mary Davis,(793)522-8966x6627,sarah43@example.org,"00087 Jackson Forest Suite 847, Lake Cassandraside, PA 13567",Neurology,LIC10384,https://www.maryclinic.com
+555,Tammy Scott,772-992-8112,harrisjennifer@example.net,"69794 Webb Plains, East Jamesfurt, CO 09139",Neurology,LIC21881,https://www.tammyclinic.com
+556,Cindy Vega,585-633-7832x203,mariafoster@example.com,"92510 Amber Fall Suite 686, South Bethanystad, SD 49790",Ophthalmology,LIC37760,https://www.cindyclinic.com
+557,Leslie Villegas,001-411-897-2736x029,gregoryaaron@example.net,"9677 Howe Islands, Batestown, FL 66194",Cardiology,LIC16837,https://www.leslieclinic.com
+558,Brandi Adams,+1-977-338-9356x32820,bmartin@example.net,"98633 Stephanie Ford Apt. 491, Elizabethfort, MS 43503",Ophthalmology,LIC78459,https://www.brandiclinic.com
+559,Kimberly Preston,8153062332,hhuber@example.net,"PSC 8313, Box 6311, APO AA 95933",Dermatology,LIC33549,https://www.kimberlyclinic.com
+560,Michael Clark,001-518-514-7710x638,noah97@example.org,"159 Clark Forge Suite 500, South Julia, ND 05104",Dermatology,LIC61189,https://www.michaelclinic.com
+561,Vanessa Murray,713-517-9215x58032,pbarnes@example.com,"USCGC Richardson, FPO AP 81626",General Medicine,LIC55316,https://www.vanessaclinic.com
+562,Erin Taylor,(439)768-9711,kendramorris@example.org,"PSC 7908, Box 5878, APO AE 12485",Psychiatry,LIC51990,https://www.erinclinic.com
+563,Christopher Young,383.821.3495x366,gregory40@example.org,"71656 Fernando Walk, Lindafort, WA 63965",Neurology,LIC99676,https://www.christopherclinic.com
+564,Jennifer Harris,8607780974,mccoyamy@example.com,"251 John Junctions Suite 294, Stacyberg, CT 70158",General Medicine,LIC85128,https://www.jenniferclinic.com
+565,Sandra Ball,(892)789-1767,davidrodriguez@example.org,"458 Keith Hill, Williamside, TN 10172",Psychiatry,LIC51712,https://www.sandraclinic.com
+566,Karen Harris,001-624-935-7530x0010,aprilward@example.org,"9892 Hampton Streets, Elizabethtown, IA 47185",Pediatrics,LIC87833,https://www.karenclinic.com
+567,Morgan Jacobson,342-867-2384x8102,stevenmatthews@example.net,"87263 Ashley Forge, Deanport, PR 80727",Cardiology,LIC14604,https://www.morganclinic.com
+568,Sarah Holland,9215087234,stacysanchez@example.com,"9668 Austin Orchard, Taylorchester, NY 34908",Pediatrics,LIC70877,https://www.sarahclinic.com
+569,Bryce Mitchell,701-386-2978,joneslinda@example.org,"8859 Sullivan Street, North Travis, IN 34171",Urology,LIC51006,https://www.bryceclinic.com
+570,Cody Cooper,+1-929-478-9479x871,hollowayanthony@example.net,"6717 Jermaine Land Apt. 111, East Dwayne, GU 48716",Ophthalmology,LIC51311,https://www.codyclinic.com
+571,Jamie Oliver,283.976.3396x829,james61@example.org,"Unit 3969 Box 5833, DPO AP 63603",Neurology,LIC72777,https://www.jamieclinic.com
+572,Timothy Moore,332.945.8231x685,johnny27@example.org,"441 Gregory Meadows, West Stephaniechester, GA 83665",General Medicine,LIC11432,https://www.timothyclinic.com
+573,Michael Wilson,+1-216-486-4011,kochtyler@example.net,"229 Brian Turnpike, West Katherineport, LA 26957",General Medicine,LIC41356,https://www.michaelclinic.com
+574,Julie Garza,+1-534-598-5434x92656,brucejoseph@example.com,"32563 Pittman Station Apt. 000, South Todd, VT 67999",Gynecology,LIC33513,https://www.julieclinic.com
+575,Taylor Riley,(512)350-6544x54662,stevenjohnson@example.org,"226 Hernandez Forest, Saraton, ME 54546",General Medicine,LIC28264,https://www.taylorclinic.com
+576,Kenneth Livingston,+1-321-480-4729x038,psmith@example.net,"2595 Rodriguez Point, North Kathleenside, CO 71232",Orthopedics,LIC30709,https://www.kennethclinic.com
+577,Thomas Medina,922-467-9577,tammy78@example.net,"98694 Smith Turnpike Suite 915, Matthewstad, HI 08642",Orthopedics,LIC61540,https://www.thomasclinic.com
+578,Calvin Mahoney,801.232.4287x6782,robin03@example.net,"770 Joseph Plaza Suite 142, Adamborough, SC 23851",Orthopedics,LIC78746,https://www.calvinclinic.com
+579,James Ballard,(435)275-1193x55286,julierodriguez@example.com,"8010 Chase Plains, North Danielmouth, UT 02855",Pediatrics,LIC81233,https://www.jamesclinic.com
+580,Danny Williams,732-660-7565x531,elliottroger@example.net,"2242 Larry Expressway Suite 194, Cruzfort, SD 77470",Orthopedics,LIC42954,https://www.dannyclinic.com
+581,Ashley Hill,282-710-6684x97648,acallahan@example.net,"USCGC Miller, FPO AP 47226",Urology,LIC94725,https://www.ashleyclinic.com
+582,Jeffrey Parks,375.528.6579x465,linda49@example.net,"84294 Michael Estates, Scottbury, NC 21762",Pediatrics,LIC94247,https://www.jeffreyclinic.com
+583,Lisa Sandoval,968.308.2121x35541,lguerrero@example.org,"6126 Richardson Inlet Apt. 573, North Benjaminfort, AK 41644",Dermatology,LIC26360,https://www.lisaclinic.com
+584,Connie Leonard,001-831-822-0488,jason72@example.org,"Unit 4628 Box 2223, DPO AE 52225",Orthopedics,LIC37890,https://www.connieclinic.com
+585,Travis Contreras,885-706-7022,qanderson@example.com,"32079 Christy Fall Suite 600, Ericland, WA 21179",Gynecology,LIC56330,https://www.travisclinic.com
+586,William Sweeney,770-242-9636x0719,ffloyd@example.com,"9152 Anna Points, East Paulaland, CO 27238",General Medicine,LIC14633,https://www.williamclinic.com
+587,Geoffrey Zuniga,(870)898-3069,michele71@example.org,"52665 Marquez Cliff, Williamshaven, SD 50231",General Medicine,LIC41384,https://www.geoffreyclinic.com
+588,Kelly Mullins,6845755413,paul95@example.com,"13520 Sandy Valley Suite 448, Port April, PW 85132",General Medicine,LIC65825,https://www.kellyclinic.com
+589,Eric Haley Jr.,+1-218-632-1483x704,chasehernandez@example.net,"Unit 7375 Box 0795, DPO AE 58422",Urology,LIC77989,https://www.ericclinic.com
+590,Daniel Pennington,241-367-8494,shunt@example.com,"365 Brent Harbor, Sextonbury, NM 36379",Psychiatry,LIC34218,https://www.danielclinic.com
+591,Linda Ford,(723)291-0350x621,danielmason@example.com,"00677 Sharon Vista, West Kaitlin, MN 89231",Psychiatry,LIC61966,https://www.lindaclinic.com
+592,Danielle York,798-761-3974,anthonysmith@example.net,"81487 Wall Throughway Apt. 945, West Julieport, VT 40889",Pediatrics,LIC39237,https://www.danielleclinic.com
+593,Matthew Brown,205-705-8673,michael86@example.net,"6780 Dustin Roads Apt. 951, North Michaelfurt, GU 63765",Cardiology,LIC59520,https://www.matthewclinic.com
+594,Paul Mclaughlin,655.291.1957x76791,andrew28@example.org,"0375 Thomas Spurs Apt. 781, New Ericaburgh, IA 19979",General Medicine,LIC31647,https://www.paulclinic.com
+595,Dorothy Bradley,213.268.5998x61654,amosley@example.com,"8165 Kelly Ferry Apt. 488, South Daniel, NH 82613",Orthopedics,LIC61236,https://www.dorothyclinic.com
+596,Emily Poole,300-845-4278x6746,omarjackson@example.com,"16054 Baker Ferry Suite 434, Scottchester, AK 47841",Urology,LIC59695,https://www.emilyclinic.com
+597,Jenna Morgan,810-668-2580x441,fernandoramirez@example.com,"191 Berger Stravenue Apt. 648, East Emilyport, CO 04945",Dermatology,LIC12856,https://www.jennaclinic.com
+598,Ryan Jones,527-332-3314,hamiltontasha@example.com,"391 Eddie Green Suite 920, Mitchellfort, SC 15420",Dermatology,LIC69469,https://www.ryanclinic.com
+599,Miss Elizabeth Davenport,001-967-963-5126x147,alexis31@example.net,"07981 Joshua Groves Suite 825, Holtburgh, AZ 66271",Neurology,LIC86802,https://www.missclinic.com
+600,Miranda Hernandez,214.823.7463x438,jasmine86@example.com,"0573 Paul Ways, West Patricia, NH 42562",Cardiology,LIC66563,https://www.mirandaclinic.com
+601,William Sanchez,985-467-8822x2108,bryan09@example.org,"2683 Donna Throughway, North Carl, FL 77027",Ophthalmology,LIC77180,https://www.williamclinic.com
+602,Matthew Stevens,+1-426-865-5436x212,loganeric@example.net,"586 Santiago Gateway Apt. 214, Kelliton, CA 67954",Neurology,LIC63328,https://www.matthewclinic.com
+603,Patrick Hunt,241-840-1906x547,rebeccawiley@example.com,"8441 Martinez Shores Apt. 536, Richardsbury, WV 13712",General Medicine,LIC23117,https://www.patrickclinic.com
+604,Charles Hicks,+1-698-710-4865x2105,andrewbaker@example.org,"0558 Scott Unions, Alberttown, NY 56875",Dermatology,LIC99375,https://www.charlesclinic.com
+605,Heather Knapp,387.219.4749,ylambert@example.com,"90071 Krystal Points, Port Colleen, NH 91982",Pediatrics,LIC43615,https://www.heatherclinic.com
+606,Laura Hart,616-502-6150,reidkimberly@example.org,"1314 Charles Road, West Nicole, WV 38029",Cardiology,LIC39440,https://www.lauraclinic.com
+607,Tina Grimes,4794521109,noahtapia@example.org,"847 David Mission, South Derek, AR 61636",Pediatrics,LIC74133,https://www.tinaclinic.com
+608,Craig Lee,231.457.7184,greenechristopher@example.net,"Unit 3355 Box 0100, DPO AA 55094",Cardiology,LIC47501,https://www.craigclinic.com
+609,Lauren Livingston,(699)832-5664x385,calexander@example.org,"1012 Taylor Fords, North Jerry, CO 64579",Cardiology,LIC65817,https://www.laurenclinic.com
+610,Cheryl Martinez MD,356-331-6322x973,soniapalmer@example.org,"6080 George Corner, Amandastad, VA 49274",Cardiology,LIC49592,https://www.cherylclinic.com
+611,Lisa Braun,393.984.5654x76985,leonardmaxwell@example.org,"0634 Patricia Mountain Suite 400, Leroyfort, OK 53102",Gynecology,LIC54702,https://www.lisaclinic.com
+612,Daniel Kline,+1-552-453-0353x98474,ohahn@example.org,"76143 Charles Corner Apt. 868, Victorton, FM 64103",Cardiology,LIC72693,https://www.danielclinic.com
+613,Steve Williams,819.590.5996x75312,elopez@example.net,"48151 Ward Mission Suite 484, South Melissastad, DE 23954",Gynecology,LIC83231,https://www.steveclinic.com
+614,Donna Pham,3163014406,joseph55@example.com,"164 Angela Lane Suite 384, Lake Davidhaven, NV 54507",Neurology,LIC16394,https://www.donnaclinic.com
+615,Dominic Snyder,+1-570-392-9173x64898,rodriguezgeorge@example.org,"995 Stewart Run Apt. 229, Leehaven, DC 94916",General Medicine,LIC74206,https://www.dominicclinic.com
+616,Robert Spears,+1-596-941-6413,kingdonald@example.com,"431 Sexton Islands Suite 031, Cassandraberg, HI 10754",Urology,LIC80340,https://www.robertclinic.com
+617,Sandra Blair,906.580.8985x777,rachel03@example.org,"149 Ronald Flat Suite 782, Morrisburgh, OR 99465",Gynecology,LIC59046,https://www.sandraclinic.com
+618,Crystal Sawyer,5943026506,vhood@example.org,"6269 Norman Isle Suite 616, Gregoryfort, FL 36048",Neurology,LIC21533,https://www.crystalclinic.com
+619,Jerry Norton,001-890-927-9902x99985,castillotyler@example.com,"045 Johnson Spring Suite 439, Raymondfort, IN 10747",Ophthalmology,LIC42473,https://www.jerryclinic.com
+620,Thomas Ortiz,941.554.7049,ronnie59@example.org,"PSC 9283, Box 1399, APO AP 80841",Urology,LIC27878,https://www.thomasclinic.com
+621,William Thomas,(365)600-7807x3268,chasecorey@example.com,"5675 Garcia Crossroad Suite 447, East Eric, WI 73658",Orthopedics,LIC81238,https://www.williamclinic.com
+622,Kristen Christian,+1-729-636-5857x61998,burtonjason@example.net,"9160 Mary Locks Suite 365, New Robertbury, NJ 01690",Ophthalmology,LIC19534,https://www.kristenclinic.com
+623,Samuel Johnson,(246)658-6632x31210,andrew39@example.org,"18088 Craig Mews Apt. 113, Samanthaside, PW 23183",Neurology,LIC72685,https://www.samuelclinic.com
+624,Annette Tucker,(390)496-5816x0705,haleeric@example.org,"PSC 3713, Box 4783, APO AP 49259",Gynecology,LIC29035,https://www.annetteclinic.com
+625,Michael Burns,212-448-4871,dholt@example.net,"393 Meyer Stravenue, North Michael, RI 23080",Orthopedics,LIC38074,https://www.michaelclinic.com
+626,Jack Luna,876-331-7793,smithdarin@example.net,"575 Wilson Spur, Clarkmouth, VT 97691",Neurology,LIC81716,https://www.jackclinic.com
+627,David Watson,+1-591-530-3737x3991,lmiller@example.com,"9261 Gaines Drives Suite 902, West Alexisville, UT 31805",Cardiology,LIC13651,https://www.davidclinic.com
+628,Ronald Gordon,(528)487-0233,walkermichael@example.net,"122 Graves Forest Apt. 929, New Lisaville, UT 45528",Cardiology,LIC31123,https://www.ronaldclinic.com
+629,Jason Holmes,(978)895-0145x2101,jennifer04@example.net,"0603 Christine Vista Apt. 625, Katelynmouth, TX 70943",Cardiology,LIC41933,https://www.jasonclinic.com
+630,Holly Jacobs,(525)257-8692x837,ianowens@example.org,"USCGC Gibson, FPO AP 00950",Pediatrics,LIC58416,https://www.hollyclinic.com
+631,Jared Meza,968.367.4112x3580,smithjames@example.org,"0257 Robertson Ranch, Stephenview, VI 64146",Cardiology,LIC89636,https://www.jaredclinic.com
+632,Kristina Hernandez,5413057629,sara01@example.org,"38717 Perry Route Apt. 894, Jamesfurt, KY 27566",Dermatology,LIC54483,https://www.kristinaclinic.com
+633,Lynn Williams,6007611726,jlee@example.com,"88713 Patel Ville, Elizabethshire, RI 28166",Neurology,LIC56087,https://www.lynnclinic.com
+634,Leslie Joyce,(916)424-8800x8434,raymondfranklin@example.com,"9357 Andrade Course Suite 456, Lake Kelliburgh, AZ 59741",Ophthalmology,LIC94118,https://www.leslieclinic.com
+635,Brett Gray,(678)978-9886x959,daymichael@example.org,"74714 James Turnpike Apt. 252, Wadeton, MH 06891",Neurology,LIC24709,https://www.brettclinic.com
+636,Morgan Hughes,(548)384-5368x857,oharrison@example.org,"0025 Guzman Bypass, Lake Shannon, MS 02205",Cardiology,LIC10148,https://www.morganclinic.com
+637,Larry Lee,747-573-8306,kimberlychapman@example.com,"Unit 3931 Box 1552, DPO AE 21136",Cardiology,LIC70984,https://www.larryclinic.com
+638,Mary Murphy,678.763.3942,lstevenson@example.net,"7656 Barry Burg Apt. 428, South Nicholas, MS 16769",Neurology,LIC83545,https://www.maryclinic.com
+639,Curtis Jackson,6729219579,ikelley@example.org,"9622 Smith Mall, Lake Danielburgh, KY 18008",Cardiology,LIC86802,https://www.curtisclinic.com
+640,Cassandra Warren,642-912-3396,nguyenaudrey@example.org,"07941 Jason Crossing Apt. 400, Jenniferstad, TX 63846",Orthopedics,LIC55446,https://www.cassandraclinic.com
+641,Robert Avery,530.572.0581,linda81@example.net,"8289 Cox Union Suite 504, Jimview, NY 71130",Cardiology,LIC27267,https://www.robertclinic.com
+642,Jasmine Myers,(782)782-6626,petersdavid@example.org,"340 Sean Knoll, Jensentown, OR 30477",Cardiology,LIC42993,https://www.jasmineclinic.com
+643,Edward Johnson,+1-385-695-0777x784,hardyalejandro@example.org,"1730 Rhonda Parkways, East Davidburgh, MN 21424",Ophthalmology,LIC12299,https://www.edwardclinic.com
+644,Nichole Ross,584.906.9540x0668,bishopnoah@example.org,"6779 Morgan Isle Apt. 003, North Jose, AR 82141",Ophthalmology,LIC59825,https://www.nicholeclinic.com
+645,Tina Michael,001-360-706-6683x739,rebeccastout@example.com,"194 Chavez Lodge, Laurenberg, AS 84001",Urology,LIC22486,https://www.tinaclinic.com
+646,Samuel Roberts,(400)912-2659,longpedro@example.org,"2629 Alvarez Points Apt. 086, Taylorberg, FM 10562",General Medicine,LIC60945,https://www.samuelclinic.com
+647,Curtis Beasley,5649922851,thomasrhodes@example.net,"11351 Coffey Island Suite 107, North Samuelhaven, NM 60746",Neurology,LIC66495,https://www.curtisclinic.com
+648,Debbie Scott,632.375.2559,schultztrevor@example.net,"798 Christopher Lane Suite 898, Kimberlybury, OH 01029",Urology,LIC50949,https://www.debbieclinic.com
+649,Walter Dorsey,759-759-1234x0123,abigail54@example.org,"USCGC Boyle, FPO AA 13742",Psychiatry,LIC95867,https://www.walterclinic.com
+650,Hector White,949.244.4528x1078,janet25@example.org,"8613 Fisher Rue, West Brad, NV 27796",Ophthalmology,LIC45704,https://www.hectorclinic.com
+651,Jake Wright,+1-572-411-0674x7675,michele37@example.net,"90813 Nathan Grove, Batesfurt, HI 56397",Pediatrics,LIC25576,https://www.jakeclinic.com
+652,Ronnie Smith,604-993-0300,charles14@example.net,"2228 Kim Trail, Lawrenceton, PR 86597",Pediatrics,LIC23777,https://www.ronnieclinic.com
+653,Tara Martin,4389763755,ricky32@example.com,"71395 Ward Estates, Kevinbury, AL 31744",Dermatology,LIC94307,https://www.taraclinic.com
+654,Patricia Bradley,(414)611-8964,jessica57@example.net,"475 Scott Hill Suite 405, New Jacob, KS 56232",Gynecology,LIC15625,https://www.patriciaclinic.com
+655,Gina Franklin,529-815-7257,william14@example.org,"2279 Sandoval Walk, Lake Chrischester, NC 16308",Ophthalmology,LIC14010,https://www.ginaclinic.com
+656,Karen Robinson DDS,(595)706-5705,stanleywilliam@example.org,"05866 Moore Points, Jonesshire, MI 22570",Pediatrics,LIC87158,https://www.karenclinic.com
+657,Christopher Kelley,+1-557-453-8638,gardneremma@example.org,"098 Michael Drive Apt. 540, Nolanstad, ME 10825",Gynecology,LIC15626,https://www.christopherclinic.com
+658,Jennifer Petty,532.931.5984x7072,gflowers@example.net,"716 Jasmine Mill, West Christianville, MH 49625",Dermatology,LIC75227,https://www.jenniferclinic.com
+659,Mark Mann DDS,(730)900-6068,gomezsue@example.org,"Unit 6870 Box 9466, DPO AA 03284",Psychiatry,LIC72916,https://www.markclinic.com
+660,Raymond Campos,001-715-926-2055x969,chall@example.org,"640 Kidd Estate Apt. 827, West David, SC 46927",Pediatrics,LIC40990,https://www.raymondclinic.com
+661,Alexis Jackson,386.470.5350x0594,garciabarbara@example.org,"9560 Rhonda Curve Suite 140, South Richardfurt, NH 53486",Orthopedics,LIC89365,https://www.alexisclinic.com
+662,Molly Singh,001-347-299-6869,ajohnson@example.net,"29009 Taylor Mills Suite 949, Stephaniemouth, OR 30462",Psychiatry,LIC41860,https://www.mollyclinic.com
+663,Robert Gregory,886-262-6606x6998,leslie33@example.com,"Unit 1025 Box 5933, DPO AA 46217",Psychiatry,LIC55747,https://www.robertclinic.com
+664,Daniel Mills,791.716.5545x482,spencerhannah@example.net,"9457 Morgan Shoals, Johnathanville, AL 54982",Gynecology,LIC94263,https://www.danielclinic.com
+665,Jesse Reid,(892)255-7914x6875,marquezdanielle@example.org,"342 Mary Trail Apt. 799, Port Deborah, MO 97903",Ophthalmology,LIC14300,https://www.jesseclinic.com
+666,Alexa Soto,754-549-8509x31017,nhernandez@example.org,"69875 Wright Forest Suite 648, South Rachel, UT 48965",Gynecology,LIC28585,https://www.alexaclinic.com
+667,Danielle Randall,438-743-8934,thompsonkatherine@example.net,"Unit 4336 Box 5780, DPO AP 88376",Gynecology,LIC12703,https://www.danielleclinic.com
+668,Michelle Chavez,001-817-304-4541x81527,gabrielavargas@example.net,"4715 Johnson Locks Suite 391, Colinburgh, CO 95842",Neurology,LIC49906,https://www.michelleclinic.com
+669,William Butler,685.703.0611,sheryl70@example.com,"007 Hayes Port Apt. 208, Lake Bryanburgh, NH 40704",Psychiatry,LIC33402,https://www.williamclinic.com
+670,Lindsay Elliott,725.810.8811x30710,huntermatthew@example.org,"455 Nichols Haven, Taylorfurt, OH 55017",Orthopedics,LIC74839,https://www.lindsayclinic.com
+671,Nathaniel Short,792-720-2579x7509,campbelljoshua@example.net,"PSC 0823, Box 8312, APO AE 14025",Gynecology,LIC88615,https://www.nathanielclinic.com
+672,Caitlin Stone,(442)442-7445x90127,hoffmanjanet@example.org,"845 Steven Lake Apt. 453, East Christopherburgh, DE 99888",Pediatrics,LIC18233,https://www.caitlinclinic.com
+673,Lorraine Bolton,+1-880-950-0689x8392,randallshaw@example.org,"3008 Samantha Cliff, Lake Steven, GU 06430",General Medicine,LIC75304,https://www.lorraineclinic.com
+674,Rebecca Williams,(775)526-6431x109,kara53@example.net,"962 Romero Run Suite 518, Aaronland, HI 82349",Orthopedics,LIC31132,https://www.rebeccaclinic.com
+675,Jeffrey Saunders,382.820.3505x65121,bryanliu@example.com,"62854 Castro Greens, Port Brianmouth, HI 20221",Ophthalmology,LIC53385,https://www.jeffreyclinic.com
+676,Patricia Barnett,(410)886-0679x481,alexandercampbell@example.net,"0697 Moore Circles, Fosterview, DE 39110",Neurology,LIC71710,https://www.patriciaclinic.com
+677,Xavier Mcgrath,+1-302-567-8258x3645,reynoldskenneth@example.com,"74675 John Path Apt. 322, West Johnbury, WI 61249",Pediatrics,LIC53469,https://www.xavierclinic.com
+678,Jared Murphy,368.409.6489x2212,cynthia49@example.net,"58592 Nicole Key, Jenniferchester, SD 24014",General Medicine,LIC64946,https://www.jaredclinic.com
+679,Misty Harmon,(591)579-7794,bjackson@example.org,"USNS Hart, FPO AA 47246",Psychiatry,LIC90032,https://www.mistyclinic.com
+680,Sharon Mcbride,869.613.2814,rebeccamartinez@example.net,"63579 Suzanne Land, West Mary, WY 79547",Neurology,LIC34433,https://www.sharonclinic.com
+681,Joshua Terry,200.556.7274,sanchezjohn@example.net,"090 Wells Neck Apt. 983, Port Gabrielle, ME 79103",Neurology,LIC17218,https://www.joshuaclinic.com
+682,Christopher Dalton,320.493.9337,walshrobert@example.net,"2591 James Curve, North Amberburgh, CA 51120",Pediatrics,LIC21990,https://www.christopherclinic.com
+683,Christopher Thomas,481-345-6501x24598,deborahfreeman@example.com,"9764 Erin Springs Apt. 503, Hollandburgh, WI 15244",Ophthalmology,LIC24790,https://www.christopherclinic.com
+684,Rachel Wade,4824630588,ashleyfitzpatrick@example.org,"1295 Rich Road Apt. 213, Port Pamela, DC 10699",Urology,LIC33236,https://www.rachelclinic.com
+685,Charles Chung,731-238-2842x7600,ymyers@example.net,"30065 Stephanie Coves, Rothshire, VT 67638",General Medicine,LIC89240,https://www.charlesclinic.com
+686,Daniel Cruz,(218)471-4392x03529,joshuawall@example.net,"086 Sonya Springs, Christineside, VA 41163",Pediatrics,LIC85703,https://www.danielclinic.com
+687,Dean Smith,271-591-9210,davisapril@example.com,"1178 Green Mountains Suite 018, Lake Ryanshire, NE 13631",Dermatology,LIC13986,https://www.deanclinic.com
+688,Ashley Hubbard,9877695597,wmartinez@example.com,"303 Michael Keys, Port Cynthiaside, ND 18536",Cardiology,LIC16225,https://www.ashleyclinic.com
+689,Cody Fitzgerald,8494748125,tammy61@example.net,"60881 Ward Union Suite 937, East Katherinechester, TX 48442",Ophthalmology,LIC44505,https://www.codyclinic.com
+690,Taylor Juarez,001-320-741-7306x71204,qlee@example.com,"99283 Taylor Gardens Suite 033, Christophermouth, PA 95744",Urology,LIC39287,https://www.taylorclinic.com
+691,Jennifer Norris,001-682-556-9442,phill@example.net,"62921 Victor Fields, West Stephen, PR 83583",Psychiatry,LIC50501,https://www.jenniferclinic.com
+692,Tyler Greene,001-878-912-4376x22744,dprice@example.net,"048 James Estates, Lake Henryhaven, MA 92091",Urology,LIC95331,https://www.tylerclinic.com
+693,Daniel Alvarez,338-434-5662x7939,matthew89@example.org,"654 Susan Lodge Suite 958, East Vincentfort, CT 06368",Gynecology,LIC61494,https://www.danielclinic.com
+694,Amy Cunningham,967-213-3672x010,darinwallace@example.com,"73163 Tiffany Street, Port Marieview, FL 82331",Psychiatry,LIC20985,https://www.amyclinic.com
+695,John Glenn,001-719-759-5775,haroldjohnson@example.net,"703 Jensen Lake Apt. 998, Sethchester, AZ 78493",General Medicine,LIC67119,https://www.johnclinic.com
+696,Renee Walker,251.718.4571x0899,vmiller@example.com,"40021 Andrea Mountains Apt. 965, Josephmouth, AK 48012",Neurology,LIC78961,https://www.reneeclinic.com
+697,Elizabeth Fields,001-899-654-4878x068,shanejones@example.net,"Unit 7105 Box 4506, DPO AA 85353",Urology,LIC56049,https://www.elizabethclinic.com
+698,Lori Cruz,(589)841-4492x9923,wanda02@example.com,"603 Rowe Alley Suite 106, Rebeccaview, AR 61396",Orthopedics,LIC90726,https://www.loriclinic.com
+699,Timothy Brandt,(849)662-7659x8945,thomasray@example.com,"729 Johnson Cliff Apt. 162, Perezland, ID 44958",Orthopedics,LIC56619,https://www.timothyclinic.com
+700,William Nguyen,(411)811-0553,joefernandez@example.net,"409 Ryan Hollow Apt. 564, West Maurice, AL 85236",Orthopedics,LIC92511,https://www.williamclinic.com
+701,Matthew Cunningham,271-785-6981,jessebennett@example.com,"568 Lutz Dam, Nicolestad, WY 29028",Pediatrics,LIC27638,https://www.matthewclinic.com
+702,Christine Washington,268.915.3449x652,chavezcorey@example.com,"481 Vargas Course, Port Kathleenland, FL 97448",Orthopedics,LIC58640,https://www.christineclinic.com
+703,David Wheeler,483.350.3728x0119,leahstephens@example.org,"PSC 3019, Box 5640, APO AE 32290",Psychiatry,LIC20291,https://www.davidclinic.com
+704,Dalton Valentine,001-332-691-0419,tracy25@example.net,"PSC 2504, Box 0645, APO AE 00732",General Medicine,LIC12877,https://www.daltonclinic.com
+705,Anthony Bartlett,979-839-2544x7336,fosborn@example.net,"366 Crawford Street, New Shawnton, KY 57325",General Medicine,LIC89629,https://www.anthonyclinic.com
+706,Max Lewis,326-305-3998x3323,michelle68@example.net,"0809 Brandi Manors, Andrewville, KY 78701",Neurology,LIC60293,https://www.maxclinic.com
+707,Dawn Payne,+1-337-706-9009x2231,jonestina@example.net,"224 Bright Station, Andrewhaven, KS 74596",Psychiatry,LIC33555,https://www.dawnclinic.com
+708,Regina Franco,2923367780,msingleton@example.org,"39104 Douglas Roads Suite 386, New Nancy, CO 61687",Pediatrics,LIC70074,https://www.reginaclinic.com
+709,Stacey Weeks,819-338-4242x996,rbrown@example.com,"Unit 4553 Box 4930, DPO AE 75188",Neurology,LIC80410,https://www.staceyclinic.com
+710,Angela Williams,4577732318,melvin41@example.com,"USNV Sanchez, FPO AE 26230",Cardiology,LIC43665,https://www.angelaclinic.com
+711,Michele Hawkins,+1-887-342-3640x5290,shannonrobinson@example.net,"USS Dalton, FPO AE 94009",Psychiatry,LIC54360,https://www.micheleclinic.com
+712,Austin Matthews,601.695.4991x020,thomaswaters@example.org,"0168 Boyd Meadows, West Micheleland, VI 78236",Gynecology,LIC63086,https://www.austinclinic.com
+713,Christopher Khan,001-367-639-3555x5894,charles00@example.net,"PSC 2282, Box 2883, APO AE 08062",Dermatology,LIC59196,https://www.christopherclinic.com
+714,Michelle Humphrey,624-751-1295,hartpam@example.net,"251 May Knolls Suite 902, South Carlaland, AS 96134",Gynecology,LIC29050,https://www.michelleclinic.com
+715,Heather Heath,(923)332-0763x568,fmartinez@example.com,"9378 Spence Loop Apt. 625, Smithland, MI 25679",Pediatrics,LIC90218,https://www.heatherclinic.com
+716,Alexis Frost,3262437347,davisbreanna@example.net,"8312 Kelly Valley Suite 394, Masonberg, NJ 96554",Dermatology,LIC66786,https://www.alexisclinic.com
+717,Thomas Hopkins,001-865-528-6776,andersondustin@example.org,"USCGC Long, FPO AA 79423",Dermatology,LIC11827,https://www.thomasclinic.com
+718,Adrian Ray,2959027107,michael84@example.org,"700 Diamond Parkways Suite 743, Port Rachel, NJ 34918",Orthopedics,LIC75852,https://www.adrianclinic.com
+719,Ann Jarvis,380-234-9323x85374,bradleysmith@example.com,"1193 Young Keys, Kristineshire, AS 87796",Dermatology,LIC27867,https://www.annclinic.com
+720,Brandon Jones,+1-684-363-7185x9557,amcguire@example.net,"1725 Anthony Isle Apt. 481, Michaelton, NM 01530",Orthopedics,LIC55376,https://www.brandonclinic.com
+721,Jennifer Nichols,449.282.5656,benjaminryan@example.net,"95526 Marshall Trail Apt. 423, Lake Stephanie, SC 28061",Cardiology,LIC74138,https://www.jenniferclinic.com
+722,Aaron Lyons,561-447-3732x8042,debbie03@example.org,"6556 Cynthia Motorway, North Kimberlychester, CO 82961",Ophthalmology,LIC99588,https://www.aaronclinic.com
+723,Ruben Martin,+1-227-977-9362,carrie13@example.org,"464 Durham Flat, Oliverhaven, IL 50184",Ophthalmology,LIC35947,https://www.rubenclinic.com
+724,Daniel Harrington,001-997-672-1926,sheila01@example.org,"6050 Tyler Keys, Lake Timothy, DC 12863",Orthopedics,LIC59323,https://www.danielclinic.com
+725,Rebecca Shaw,414-682-5813,raymondbailey@example.net,"0448 Ashley Glens Suite 489, West Megan, PW 37224",Orthopedics,LIC31717,https://www.rebeccaclinic.com
+726,Rebecca Holmes,703-514-4529x68977,fordjacqueline@example.com,"791 Jonathan Prairie, Stanleyside, KY 65757",General Medicine,LIC52989,https://www.rebeccaclinic.com
+727,Michael Velasquez,(791)620-7688x0894,ricardoprice@example.net,"PSC 6575, Box 0631, APO AP 37779",Urology,LIC30485,https://www.michaelclinic.com
+728,Samantha Green,3329780853,edward08@example.org,"364 Lindsay Spring Suite 485, Jonesside, WA 46969",Urology,LIC44173,https://www.samanthaclinic.com
+729,Jennifer Thompson,001-415-305-2131x3581,dustin92@example.com,"1220 Andrew Rapids Suite 866, Jenniferhaven, PR 66589",Orthopedics,LIC45214,https://www.jenniferclinic.com
+730,Sarah Hamilton,3625021533,brendafranklin@example.org,"14408 Jason Alley Apt. 288, New Beckystad, MT 00828",Gynecology,LIC95419,https://www.sarahclinic.com
+731,Cassidy Morse,589.945.4343,drew95@example.org,"52640 Jordan Vista, Kristiland, HI 07367",Cardiology,LIC21704,https://www.cassidyclinic.com
+732,John Ramirez,747.456.1138x05162,javiersmith@example.com,"2184 Roberts Corner, South Morgan, AK 03662",Ophthalmology,LIC40738,https://www.johnclinic.com
+733,Heidi Powell,(465)800-8480x35217,morgan35@example.net,"940 Robert Wall, Port John, OK 58754",Gynecology,LIC16912,https://www.heidiclinic.com
+734,Tiffany Serrano,(878)911-6654,erica95@example.com,"75206 Malone Lane, Lake Abigailburgh, DE 75294",Dermatology,LIC70667,https://www.tiffanyclinic.com
+735,Lisa Stephens,399-468-0215,mary63@example.org,"405 David Gardens Apt. 227, Phillipsfort, WA 47490",Gynecology,LIC91468,https://www.lisaclinic.com
+736,Eric George,424.214.9528,emilyrobinson@example.net,"34392 Patterson Fields, Elizabethbury, IA 84385",Psychiatry,LIC60944,https://www.ericclinic.com
+737,Catherine Butler,785-547-7553,ibeltran@example.net,"2033 Barker Ramp Apt. 343, East David, WY 95001",Gynecology,LIC98942,https://www.catherineclinic.com
+738,Anita Wallace,001-661-655-0934x96564,krystalclay@example.org,"87843 West Branch Suite 362, Nixonmouth, OR 76410",Urology,LIC83342,https://www.anitaclinic.com
+739,Kelly Kelley,255.370.8970x602,elizabethpeterson@example.com,"081 Aaron Highway Apt. 521, Stevensonfurt, MD 09718",Gynecology,LIC33489,https://www.kellyclinic.com
+740,Scott Warren,(281)274-2534x0028,ariasmelissa@example.net,"684 Kelly Prairie Apt. 789, Jenniferside, LA 81776",Gynecology,LIC81049,https://www.scottclinic.com
+741,James Clark,737-837-8417x81903,joannasanchez@example.com,"9106 Brooks Meadow Apt. 411, Port Paul, AZ 63961",Urology,LIC85509,https://www.jamesclinic.com
+742,Julie Ward,683-945-1536x2315,vthompson@example.net,"894 Rivera Harbor Apt. 926, Mullinsberg, RI 71580",Neurology,LIC67041,https://www.julieclinic.com
+743,Michael Vance,604-287-7208x5592,brandon06@example.net,"28035 Sandoval Locks Apt. 961, West Monicaport, CA 21890",Dermatology,LIC61499,https://www.michaelclinic.com
+744,Karen Wolfe,3599943024,catherinematthews@example.com,"0509 Harper Shores Suite 210, Armstrongshire, AL 62457",Psychiatry,LIC49489,https://www.karenclinic.com
+745,James Mcclain,535.466.0709,joseph75@example.org,"5542 Carter Hill Apt. 082, Longbury, ND 60802",Neurology,LIC19606,https://www.jamesclinic.com
+746,Joshua Kelly,692.989.6620x7905,samuel70@example.org,"Unit 7107 Box 0276, DPO AE 62896",Dermatology,LIC84152,https://www.joshuaclinic.com
+747,Mr. Jesse Roach MD,(920)433-6151x3905,pcontreras@example.net,"67246 Nguyen Path, Millshaven, AK 32394",Psychiatry,LIC39225,https://www.mr.clinic.com
+748,Amanda Nichols,001-959-365-0410x0009,stephaniezimmerman@example.com,"954 Grant Creek Apt. 144, Caintown, NY 64455",Pediatrics,LIC44265,https://www.amandaclinic.com
+749,Janet Schmidt,518.362.7515x611,amylutz@example.net,"11125 Johnson Spring, Whitakermouth, WV 22452",Dermatology,LIC93274,https://www.janetclinic.com
+750,David Owen,(382)520-9791,fmartin@example.net,"0481 Weeks River, East Jonathanfort, AL 41634",Gynecology,LIC47476,https://www.davidclinic.com
+751,Brad Smith,+1-472-661-2818x8866,foxashley@example.net,"8368 Richardson Ferry, Shawnside, NC 59244",Cardiology,LIC67267,https://www.bradclinic.com
+752,Christopher Allen,+1-530-335-4516x457,adamslarry@example.net,"51939 Jeremiah Turnpike, North Michaelfurt, FL 23478",Psychiatry,LIC66385,https://www.christopherclinic.com
+753,Betty Brady,(656)966-8612x80026,mossvictoria@example.net,"36636 Castillo Harbor, East Rodney, OR 28228",Ophthalmology,LIC14253,https://www.bettyclinic.com
+754,Martha Roberts,727.999.7234x00907,warnold@example.net,"35605 Thompson Square, South Jasonfort, OH 47970",Psychiatry,LIC36962,https://www.marthaclinic.com
+755,Jonathan Thomas,920.267.8548,ashleyandersen@example.net,"614 Deborah Pine, New Michaela, DC 53318",Neurology,LIC25407,https://www.jonathanclinic.com
+756,Thomas Carr,+1-251-943-4961x24432,fmooney@example.net,"3904 Hernandez Run Suite 762, New Thomastown, NM 39721",Urology,LIC75557,https://www.thomasclinic.com
+757,Susan Torres,343.521.5324,heather25@example.com,"5198 Knox Corner, Johnsonburgh, CA 46157",Neurology,LIC36420,https://www.susanclinic.com
+758,Vanessa Boyd,449.259.5452,daniel49@example.com,"393 Norris Canyon, Jesseton, HI 67697",Psychiatry,LIC55923,https://www.vanessaclinic.com
+759,Andrea Frost,001-625-641-1793x22068,gabriel36@example.org,"76605 Simmons Rue, West Michaeltown, OH 32215",Dermatology,LIC97204,https://www.andreaclinic.com
+760,Thomas Romero,001-290-411-5002x64758,karen25@example.net,"8942 Castillo Pines Suite 092, Lake Melinda, NE 07068",Dermatology,LIC21777,https://www.thomasclinic.com
+761,Benjamin Ross,(214)743-6880x1892,michael11@example.net,"29408 Michael Causeway Apt. 328, Lake Robert, OK 92451",Gynecology,LIC25076,https://www.benjaminclinic.com
+762,Kelly Duffy,476-588-2672x57156,nsutton@example.org,"4086 Christian Trace Suite 884, Jasonbury, OK 88428",Ophthalmology,LIC79497,https://www.kellyclinic.com
+763,Amber Shepherd,344-985-8997,nklein@example.org,"523 Thompson Road, New Brandiville, FL 80333",Dermatology,LIC23837,https://www.amberclinic.com
+764,Robert Velez,+1-494-690-1024x346,james23@example.com,"PSC 2006, Box 3932, APO AP 12050",Pediatrics,LIC43165,https://www.robertclinic.com
+765,John Gomez,(772)690-8625,victormckenzie@example.org,"Unit 9917 Box 9430, DPO AA 31906",Cardiology,LIC66161,https://www.johnclinic.com
+766,Eddie Boyer,(973)904-9822x48920,pedro90@example.net,"38348 Green Summit, Bakerside, IL 23585",Cardiology,LIC83373,https://www.eddieclinic.com
+767,Ebony Richardson,+1-735-396-7242x89801,gainesdominique@example.com,"623 Miller Glens Apt. 479, Melissaview, MN 70101",Gynecology,LIC69271,https://www.ebonyclinic.com
+768,Philip Cordova,(293)516-2648,kleonard@example.net,"9110 Perez Forks, Gentryton, WA 10625",Neurology,LIC14733,https://www.philipclinic.com
+769,Sarah Kirk,763-618-0144x355,nancy93@example.net,"75491 Robinson Harbor, Patrickberg, SC 32767",Orthopedics,LIC41483,https://www.sarahclinic.com
+770,Linda Nelson,001-818-458-5145,adamsbreanna@example.org,"Unit 9697 Box 6846, DPO AE 77325",Psychiatry,LIC90238,https://www.lindaclinic.com
+771,Michael Carson,623.694.8870,jbrown@example.com,"36721 Green Station Apt. 865, Lake Alicia, CO 85212",General Medicine,LIC73331,https://www.michaelclinic.com
+772,Adam Hogan,001-856-669-2317,justin70@example.org,"420 Hamilton Villages Suite 921, Port Laurenshire, NJ 75743",Urology,LIC23030,https://www.adamclinic.com
+773,Donna Cunningham,+1-625-444-3289x108,ojackson@example.com,"7586 Adams Mills Apt. 000, East Michelle, SC 93743",Ophthalmology,LIC32812,https://www.donnaclinic.com
+774,Denise Wolfe,776-791-9435,boyerrobert@example.org,"41232 Lane Shore, Davieston, CO 34596",Psychiatry,LIC12287,https://www.deniseclinic.com
+775,Brandon Lopez,001-962-908-5557x483,rebecca42@example.net,"64235 Jamie Brooks Apt. 298, Perkinsstad, NE 38972",Dermatology,LIC96265,https://www.brandonclinic.com
+776,Mr. Gregory Payne,001-578-301-0134x53068,timothybryant@example.org,"542 Justin Way Apt. 147, Lake Sarah, ID 97312",Pediatrics,LIC43820,https://www.mr.clinic.com
+777,Dr. Margaret Anderson DVM,+1-285-585-5393,amydunn@example.net,"00793 Porter Mills Suite 898, Mirandamouth, DE 16121",Urology,LIC11722,https://www.dr.clinic.com
+778,David Rodriguez,259.763.4821x440,mejiakelsey@example.net,"433 Rodriguez Viaduct, Lake Johnstad, OH 37842",Neurology,LIC10045,https://www.davidclinic.com
+779,Daniel Prince,756-848-7137,kelly89@example.net,"965 Ariana Ports, Washingtonfort, IA 03524",Urology,LIC27459,https://www.danielclinic.com
+780,Joshua Thomas,+1-956-671-5340x8468,lopezbryan@example.com,"202 Diaz Forge Suite 298, Cartermouth, OH 63782",Dermatology,LIC18640,https://www.joshuaclinic.com
+781,Derrick Gallegos,(866)418-0312x14342,brittany47@example.org,"530 Ryan Tunnel, Smithfort, NH 72068",General Medicine,LIC30502,https://www.derrickclinic.com
+782,Timothy Schmidt,(354)864-2073x06623,cford@example.org,"27875 Romero Ford, Jonesport, MT 36488",Dermatology,LIC47922,https://www.timothyclinic.com
+783,Bryan Garcia,7594404619,uowens@example.net,"1023 Elizabeth Port, Paulhaven, IL 73558",Urology,LIC64333,https://www.bryanclinic.com
+784,Donald Ortega,483-323-1606,bethmiller@example.com,"561 Victor Harbors Apt. 903, West Maryborough, WI 75904",General Medicine,LIC52960,https://www.donaldclinic.com
+785,Steven Ramos,(925)247-8470,qcombs@example.net,"490 Dalton Tunnel, Adamchester, WI 80479",Orthopedics,LIC67215,https://www.stevenclinic.com
+786,Courtney Jimenez,980.788.2816x55788,marthajohnson@example.com,"PSC 0642, Box 1817, APO AA 64716",Orthopedics,LIC95392,https://www.courtneyclinic.com
+787,Sarah Johnson,797.438.0914x61111,grahamkeith@example.net,"5597 Melanie Fords Apt. 797, Lozanoport, IA 83262",Neurology,LIC12743,https://www.sarahclinic.com
+788,John Santiago,3952586122,wschmidt@example.org,"PSC 6934, Box 8763, APO AP 67663",Psychiatry,LIC93184,https://www.johnclinic.com
+789,Krista Vega,+1-511-651-3695x278,xscott@example.org,"66041 Wesley Rue Apt. 307, West Danielbury, MI 83537",Ophthalmology,LIC85105,https://www.kristaclinic.com
+790,Jessica Hernandez,2069112667,trevor84@example.net,"84580 Andersen Forge Suite 503, Amytown, LA 60280",Pediatrics,LIC23271,https://www.jessicaclinic.com
+791,John Blevins,001-719-937-0358,westlaura@example.net,"592 Steven Extension, Kathleenmouth, MT 62312",Dermatology,LIC99858,https://www.johnclinic.com
+792,Cory Haney,342.882.7895x1933,hawkinsnicholas@example.org,"USNS Ramirez, FPO AA 88269",Pediatrics,LIC92939,https://www.coryclinic.com
+793,Paul Massey,001-769-667-8396,sandersdavid@example.net,"6890 Kim Trace, Smithville, MS 87957",Pediatrics,LIC45599,https://www.paulclinic.com
+794,Tyler Lopez,(438)364-6184x515,watsonkimberly@example.net,"63945 Tracy Dam Apt. 086, West Andreaside, IN 72254",Pediatrics,LIC42617,https://www.tylerclinic.com
+795,Adam Peters,+1-958-804-8111x995,mtaylor@example.org,"24724 Cynthia Mews Suite 595, Westchester, TN 79461",Urology,LIC18464,https://www.adamclinic.com
+796,Samuel Perez,5329106151,norrischad@example.com,"478 Christopher Mission, Ryanchester, TX 65118",Psychiatry,LIC63630,https://www.samuelclinic.com
+797,Todd Garcia,(255)423-7284x027,staceyreeves@example.org,"055 Melinda Squares, Martinview, VT 81834",Urology,LIC66185,https://www.toddclinic.com
+798,Christopher Mcguire,(454)972-7804x76073,ashleyellis@example.org,"888 Bowman Drives Apt. 138, Keithshire, LA 54076",Pediatrics,LIC54753,https://www.christopherclinic.com
+799,Thomas Campos,001-903-593-4160x8210,rodriguezdaniel@example.net,"03521 Lori Stream Apt. 410, Sullivanmouth, NE 79119",Orthopedics,LIC45464,https://www.thomasclinic.com
+800,Kevin Hines,+1-633-486-9990,jonathanmorris@example.net,"48794 Ashley Junction Suite 239, New Adrian, AL 44160",Ophthalmology,LIC82071,https://www.kevinclinic.com
+801,Whitney Rowland,001-995-656-3102x648,klucas@example.org,"581 Hurley Unions, Thorntonshire, HI 31027",Cardiology,LIC11512,https://www.whitneyclinic.com
+802,Amy Lopez,(345)440-3927x728,brendanavarro@example.org,"2246 Scott Divide, Fernandezbury, NC 32686",Orthopedics,LIC22056,https://www.amyclinic.com
+803,Sarah Lozano,840.979.7009,lisa62@example.com,"510 Davis Valley, Mistyview, GU 47506",Ophthalmology,LIC62258,https://www.sarahclinic.com
+804,Daniel Wallace,+1-508-545-1671x66250,ajohnson@example.org,"PSC 5778, Box 8866, APO AP 60406",Ophthalmology,LIC62086,https://www.danielclinic.com
+805,Robert Johnson,+1-543-632-5951x874,gtate@example.org,"54740 Gary Junction Suite 579, Warrenshire, SD 30054",Cardiology,LIC34123,https://www.robertclinic.com
+806,Brian Brown,+1-717-496-2381x5657,joseph18@example.org,"51229 Gonzalez Trail, Port Amy, AK 52058",Orthopedics,LIC64299,https://www.brianclinic.com
+807,Amy Johnson,(326)729-5130,rachaelmiller@example.com,"69311 Leslie Villages Suite 026, West Melanie, MH 35490",Psychiatry,LIC23745,https://www.amyclinic.com
+808,Teresa White,+1-321-532-5815x160,christinajones@example.org,"6289 Mccarty Club Suite 384, Whitakershire, MO 69644",Gynecology,LIC13945,https://www.teresaclinic.com
+809,Thomas Horton,+1-254-766-0832,rhunter@example.net,"Unit 5434 Box 9533, DPO AA 85017",Ophthalmology,LIC58980,https://www.thomasclinic.com
+810,Margaret Rodriguez,(952)587-7875,brandonhendrix@example.org,"364 Stacy Stream Apt. 863, Lake Theresa, MA 99309",Cardiology,LIC14751,https://www.margaretclinic.com
+811,Brenda Lee MD,(732)316-6768x54803,murphysean@example.net,"11102 Martinez Wells, West Krystal, TN 92166",Orthopedics,LIC13665,https://www.brendaclinic.com
+812,Connor Hernandez,616-523-2416,coreydawson@example.net,"0150 Hill Circle, Hodgesland, OR 12221",Urology,LIC32029,https://www.connorclinic.com
+813,Selena Irwin,+1-294-329-7743x52232,michael65@example.com,"329 Brian Fort, New Keithburgh, MO 39126",General Medicine,LIC59262,https://www.selenaclinic.com
+814,Roger Logan,451.916.7179x164,chapmanrobert@example.com,"181 Oneal Wall Suite 983, New Anthonyside, PR 58888",Orthopedics,LIC30084,https://www.rogerclinic.com
+815,Jeffrey Bennett,+1-956-973-8896,dianasimpson@example.org,"9537 Ariel Villages, Maldonadobury, LA 18022",Dermatology,LIC12704,https://www.jeffreyclinic.com
+816,Mary Smith,001-255-309-1383x610,lpowers@example.org,"7916 Edwards Greens, Janetshire, NC 48202",Urology,LIC50022,https://www.maryclinic.com
+817,Patrick Robinson,865-861-7126x95045,laurasmith@example.org,"920 Griffith Port, New Elizabeth, SD 14268",Urology,LIC39825,https://www.patrickclinic.com
+818,Nathaniel Harris,949.905.3741,michaelsims@example.com,"16211 Torres Alley, Port Kathyshire, PW 06400",Orthopedics,LIC73710,https://www.nathanielclinic.com
+819,Joan Villa,651-898-4238,jason62@example.org,"3341 Barrett Keys Apt. 107, Dawnchester, HI 69614",General Medicine,LIC36743,https://www.joanclinic.com
+820,William Martinez,3538861773,jonesjessica@example.com,"042 Mary Route Suite 401, West Hollyport, KY 24080",Pediatrics,LIC94808,https://www.williamclinic.com
+821,Chad Hancock,001-354-429-2548,bakeranne@example.org,"1508 Vang Radial Apt. 356, Timothymouth, AS 52458",Urology,LIC57150,https://www.chadclinic.com
+822,John Andrade,711-924-8530x9413,bryantcarol@example.com,"7172 Patricia Vista Suite 746, North Sarah, SD 69417",General Medicine,LIC91330,https://www.johnclinic.com
+823,Kayla Manning,839.859.7403,alicia32@example.org,"86693 Brown Road Apt. 084, North Alex, NV 49567",Psychiatry,LIC13261,https://www.kaylaclinic.com
+824,Nicole Meyer,001-282-921-2606,yvette32@example.com,"4741 Ellis View Suite 133, Keithhaven, MN 19969",Cardiology,LIC71391,https://www.nicoleclinic.com
+825,Katherine Mcknight,(681)976-8588x43001,lindabarton@example.net,"USNV Jefferson, FPO AP 94316",Ophthalmology,LIC10190,https://www.katherineclinic.com
+826,Richard Kelly,+1-451-299-9421x0859,jonathan20@example.net,"17844 Johnson Mount, Serranohaven, KY 69093",Pediatrics,LIC42409,https://www.richardclinic.com
+827,Sarah Myers,573.670.3805x21774,lindsey34@example.com,"0786 Theresa Rest, New Barbara, OK 62196",Dermatology,LIC63079,https://www.sarahclinic.com
+828,Robert Potts,(384)849-8053,john97@example.net,"61701 Wright Cliff Apt. 310, Jenniferborough, TN 83448",Ophthalmology,LIC19738,https://www.robertclinic.com
+829,Amanda Ruiz,946.367.8969x6380,robert01@example.net,"Unit 8203 Box 2986, DPO AP 57612",Cardiology,LIC24723,https://www.amandaclinic.com
+830,Hannah Rice,+1-604-569-1427x0797,lewisjon@example.org,"15096 Blake Burgs, East Kelly, VI 74472",Urology,LIC22729,https://www.hannahclinic.com
+831,Garrett Nelson,8645106875,nsims@example.net,"5016 Moody Avenue, Lake Devin, MI 16133",General Medicine,LIC21675,https://www.garrettclinic.com
+832,Dean Owens,+1-553-558-1370x38994,shammond@example.com,"844 Booth Course Apt. 347, New Rebeccaview, MP 98699",Urology,LIC72336,https://www.deanclinic.com
+833,David Hoover,854-926-1831,bushjacob@example.org,"23604 Leslie Pines Suite 997, Port Susan, AZ 16239",Psychiatry,LIC87300,https://www.davidclinic.com
+834,Joel Jackson,001-453-800-7273,xyoung@example.net,"1154 Brown Glen Apt. 126, Lisabury, UT 42589",Urology,LIC65510,https://www.joelclinic.com
+835,David Owen,640-745-1123x3100,phillipsjuan@example.com,"25393 Maria Wall, West Shawn, SD 92101",Pediatrics,LIC43615,https://www.davidclinic.com
+836,Michele Ortega,+1-279-544-2282x236,vlang@example.com,"1260 Craig Flats, Evanhaven, DC 79881",Gynecology,LIC59151,https://www.micheleclinic.com
+837,Christina Hill,934.411.6471,george61@example.com,"988 Logan Lock Apt. 919, Patrickton, MN 58683",Urology,LIC33638,https://www.christinaclinic.com
+838,Cindy Reyes,+1-689-751-7323,vmiller@example.org,"0759 Fernandez Underpass, Smithport, RI 52854",Psychiatry,LIC43462,https://www.cindyclinic.com
+839,Leslie Roberts,204-520-2007,courtney53@example.net,"91398 Lindsay Ville, Port Teresastad, SC 18633",Ophthalmology,LIC41970,https://www.leslieclinic.com
+840,Denise Smith,001-292-558-8411,andrewchaney@example.net,"25596 Parker Ways Apt. 652, Krystalburgh, KS 84770",Cardiology,LIC73321,https://www.deniseclinic.com
+841,Donald Thornton,+1-861-505-0107x84172,tara12@example.net,"1246 George Fork Suite 144, Owensmouth, ND 61568",Cardiology,LIC38228,https://www.donaldclinic.com
+842,Caitlin Mendoza,(741)739-1955x5202,susan08@example.org,"48167 Kirk Lock Apt. 539, Port Ashley, FM 44834",Psychiatry,LIC16467,https://www.caitlinclinic.com
+843,John Sanchez,517-213-6867,rjensen@example.org,"PSC 5349, Box 6439, APO AE 16212",Ophthalmology,LIC22261,https://www.johnclinic.com
+844,Miranda Kim,311.759.5021x800,amyhawkins@example.org,"6579 Wilson Circles, Karenborough, VA 53910",Orthopedics,LIC24118,https://www.mirandaclinic.com
+845,Jessica Townsend,446.379.1214x5553,onealmark@example.com,"97767 Burke Manor, West Jamesshire, RI 98134",Urology,LIC73478,https://www.jessicaclinic.com
+846,Lisa Johnston,848.910.3983,monicacannon@example.com,"603 Melissa Lodge Suite 942, North Adamport, DE 84724",Gynecology,LIC32728,https://www.lisaclinic.com
+847,Kimberly Harris,+1-747-535-5154,cardenasanthony@example.net,"Unit 9982 Box 1214, DPO AP 45731",Dermatology,LIC65930,https://www.kimberlyclinic.com
+848,Stanley Stone,345.213.1773x21705,danielle24@example.net,"97231 Linda Park, Lake James, PA 86430",Ophthalmology,LIC55576,https://www.stanleyclinic.com
+849,Kirk Taylor,8123583088,robertsalexander@example.com,"72122 Sims Passage, Rollinsstad, OR 85481",Ophthalmology,LIC22455,https://www.kirkclinic.com
+850,Walter Peters,495-205-3156x7816,wdiaz@example.com,"9848 Sanders Ramp, Williamsland, PR 52001",Cardiology,LIC39496,https://www.walterclinic.com
+851,Tracy Alexander,316.934.5841x04692,cheryl93@example.net,"47124 David Wall Suite 569, North Robert, GA 94141",Cardiology,LIC51836,https://www.tracyclinic.com
+852,Joshua Gaines,+1-594-209-7737x225,kimberlymolina@example.com,"2889 Jeffrey Lane, Perkinsshire, NH 17977",Orthopedics,LIC49541,https://www.joshuaclinic.com
+853,Caitlyn Edwards,001-441-966-4976,donaldsonbriana@example.org,"623 Scott Manor Apt. 818, Rivasmouth, KS 63321",Psychiatry,LIC34622,https://www.caitlynclinic.com
+854,Matthew Brown,406-920-9339,lewissonia@example.org,"4958 Derrick Villages Apt. 225, Carrborough, PA 35693",Psychiatry,LIC18967,https://www.matthewclinic.com
+855,Daniel Parker,7762216956,brian13@example.com,"2392 Kiara Locks Apt. 194, Nelsonfurt, HI 99818",Neurology,LIC31663,https://www.danielclinic.com
+856,Ana Riddle,667.715.5792x7746,munozelizabeth@example.net,"2422 Teresa Extensions Apt. 542, New Dylan, AK 47551",Orthopedics,LIC19748,https://www.anaclinic.com
+857,Jacob White,+1-339-730-5508,vrobertson@example.org,"38395 Noble Fall, North Laurenmouth, ID 73118",Urology,LIC39867,https://www.jacobclinic.com
+858,Sydney Phillips,8774245890,vernonsmith@example.net,"7955 Rogers Walk Apt. 029, Lake Jessicafort, TX 63876",Urology,LIC89708,https://www.sydneyclinic.com
+859,Matthew Weiss,001-629-721-7738x75764,stephanie36@example.org,"21051 Stanton Village Suite 639, Coxstad, ID 72752",General Medicine,LIC16139,https://www.matthewclinic.com
+860,Mr. Marc Adkins,(267)374-8435x24710,jerry93@example.org,"3248 Sarah Land Suite 444, West Tammyport, NV 99453",Cardiology,LIC53543,https://www.mr.clinic.com
+861,Brittany Wright,(564)367-0952x997,simpsonjose@example.org,"0600 Shawn Gateway, Daniellemouth, PW 06376",General Medicine,LIC52874,https://www.brittanyclinic.com
+862,Kathleen Potter,9033865472,gina94@example.com,"9804 Burnett Motorway, New Phillipshire, VT 56927",Urology,LIC49554,https://www.kathleenclinic.com
+863,Louis Webb,(413)614-3553x7509,watkins@example.com,"0432 Rebecca Station Apt. 483, New Robert, KS 35849",Dermatology,LIC36400,https://www.louisclinic.com
+864,David Meyer,355.739.4178,cathymills@example.org,"9846 Mitchell Mountain Apt. 145, West Megan, DE 98651",Urology,LIC16211,https://www.davidclinic.com
+865,Theresa Greene,496.471.0191,nicole73@example.org,"785 Hannah Course Apt. 370, East Paultown, MO 25691",Gynecology,LIC47186,https://www.theresaclinic.com
+866,Brenda Thompson,319-898-8457x4152,choward@example.net,"180 Robert Glens, Perezborough, MP 39760",Orthopedics,LIC59449,https://www.brendaclinic.com
+867,Danielle Chapman,814-838-4780,qsimpson@example.org,"9309 Trevor Park Suite 380, Chambersstad, FM 30945",Dermatology,LIC80607,https://www.danielleclinic.com
+868,Melissa Bailey,+1-379-363-6977x72392,diana71@example.org,"51604 Ryan Mountain Apt. 606, Amychester, MT 86458",Urology,LIC92049,https://www.melissaclinic.com
+869,Joseph Johnson,438-817-0858,jennifermiller@example.com,"223 Sharon Road Suite 127, Brownville, NM 85978",Gynecology,LIC97147,https://www.josephclinic.com
+870,Tina Harrington,(963)829-7826x578,sarahhansen@example.com,"42601 Young Crescent, New Elizabeth, MO 87766",Dermatology,LIC66402,https://www.tinaclinic.com
+871,Amber Thompson,+1-654-242-7138x1856,allison75@example.org,"0969 Kelsey Fields, Carriemouth, NV 01914",Neurology,LIC52761,https://www.amberclinic.com
+872,Kenneth Lloyd,236-283-2845,qkane@example.com,"012 Lewis Loaf Apt. 039, Melissaland, GU 88014",Cardiology,LIC13055,https://www.kennethclinic.com
+873,Becky Thomas,001-833-609-2001,kendramarsh@example.org,"589 Eugene Inlet Suite 433, South Scottton, FL 93258",Psychiatry,LIC82080,https://www.beckyclinic.com
+874,Grant White DDS,953.355.3278,vbenson@example.net,"671 Yang Pass, Port Mia, MA 02711",Cardiology,LIC74472,https://www.grantclinic.com
+875,Mark Smith,4069764999,lauramoody@example.com,"70801 Ryan Ports Apt. 740, Charlesshire, IN 37285",Psychiatry,LIC50580,https://www.markclinic.com
+876,Zachary Marshall,573.572.4045x7367,deannakrause@example.org,"54085 Barnett Parkway, Judithville, ME 56819",Neurology,LIC75953,https://www.zacharyclinic.com
+877,Mitchell Preston,657.831.6431x777,mooreteresa@example.org,"USCGC Jackson, FPO AE 40759",Cardiology,LIC44859,https://www.mitchellclinic.com
+878,Guy Ayala,649-371-9076x1181,kendra00@example.com,"0186 Andrew Throughway, Hamiltonside, AS 01627",Pediatrics,LIC49085,https://www.guyclinic.com
+879,Emily Marshall,+1-617-413-2486x93087,mary73@example.net,"90706 Diana Bypass Apt. 104, Victorton, LA 41000",Pediatrics,LIC87695,https://www.emilyclinic.com
+880,John Stone,980.256.1625x283,vhaynes@example.org,"7249 Jennifer Pike Suite 508, West Amandachester, IN 95619",Ophthalmology,LIC62273,https://www.johnclinic.com
+881,Ryan Brown III,+1-863-720-8648x921,walkertammy@example.org,"1972 Jay Wells, West Brian, HI 57824",General Medicine,LIC43537,https://www.ryanclinic.com
+882,Andrea Koch,001-471-485-4348x453,croberts@example.org,"173 Cunningham Groves Apt. 337, South Timothyfort, GU 37713",Gynecology,LIC75755,https://www.andreaclinic.com
+883,Tammy Mitchell,001-768-752-2199x136,katherine49@example.net,"39114 Benjamin Meadow, Anthonyland, SC 21195",Cardiology,LIC22523,https://www.tammyclinic.com
+884,Stephanie Owen,214.761.0278x367,jesus14@example.net,"21598 Ryan Bypass Apt. 894, New Jeffreyfurt, MN 07899",Cardiology,LIC81544,https://www.stephanieclinic.com
+885,Matthew Martin,(997)704-4579x3537,iwarren@example.org,"713 Crystal Glen, Maryville, WY 38409",Pediatrics,LIC68961,https://www.matthewclinic.com
+886,Zachary Vazquez,(736)205-0134,robertwashington@example.com,"6525 Price Port, New Williamshire, ID 15434",Neurology,LIC61529,https://www.zacharyclinic.com
+887,Daniel Baldwin,212.508.8523x57666,danny18@example.com,"364 Morales Valley Apt. 674, South Scott, MN 86610",Neurology,LIC73753,https://www.danielclinic.com
+888,Christopher Davis,001-803-319-4341x07703,fletcherbeverly@example.net,"57889 Edwards Ports, Stanleyberg, LA 22938",General Medicine,LIC78165,https://www.christopherclinic.com
+889,Vickie Graham,+1-361-715-2033x4576,alexander31@example.org,"16220 Watson Corner Apt. 725, Lawrenceburgh, NJ 64554",Gynecology,LIC40201,https://www.vickieclinic.com
+890,Matthew Buchanan,353-832-2739x053,walshtimothy@example.com,"8790 Carroll Flat Apt. 426, Rachelland, CO 80235",Dermatology,LIC31089,https://www.matthewclinic.com
+891,Adrian Murray,001-281-243-9382x89609,dstrong@example.com,"29619 Samantha Track, New Aaronside, HI 27662",Gynecology,LIC13657,https://www.adrianclinic.com
+892,Jesse Flores,+1-251-987-8551x1820,juliemitchell@example.net,"USCGC Singh, FPO AA 67936",Orthopedics,LIC67394,https://www.jesseclinic.com
+893,Peter Haynes,+1-324-476-3919x56926,nicholas08@example.com,"PSC 9841, Box 4427, APO AA 22484",Urology,LIC86915,https://www.peterclinic.com
+894,Joshua Davenport,(942)872-5166,powersrebecca@example.org,"80903 Tracy Heights, Jenniferfurt, VT 46751",Neurology,LIC44234,https://www.joshuaclinic.com
+895,Jason Castillo,001-432-715-8545x5244,cisnerosjohn@example.net,"81501 Paul Mountains, South Jenniferberg, WI 65396",Pediatrics,LIC17330,https://www.jasonclinic.com
+896,Natalie Bell,204.272.4894,joshuarush@example.org,"996 Butler Views, Floresmouth, WI 00612",Dermatology,LIC90909,https://www.natalieclinic.com
+897,Cole Carey,(374)601-9181,wmorse@example.net,"712 Greg Islands, Ingramfurt, CO 45156",Dermatology,LIC20958,https://www.coleclinic.com
+898,Tammy Jackson,3713808983,laura59@example.com,"421 Erin Flat, Cynthiafurt, MH 55577",Cardiology,LIC61785,https://www.tammyclinic.com
+899,Shane Kane,804.242.2957x0524,coxashley@example.com,"571 James Manors, Youngton, MT 68410",Urology,LIC65800,https://www.shaneclinic.com
+900,Deborah Ewing,8904854685,carolinemontgomery@example.org,"245 Ayers Brook Suite 040, North Davidshire, MS 58869",Ophthalmology,LIC39409,https://www.deborahclinic.com
+901,Jennifer Williams,391.806.7283,collinsjames@example.com,"79316 Dunn Spur Apt. 382, New Laura, KY 31345",Urology,LIC23295,https://www.jenniferclinic.com
+902,Chelsea Bates,(342)597-5705,taylorbrett@example.net,"85831 Kim Ville, Lake Johnburgh, OH 09452",Gynecology,LIC14164,https://www.chelseaclinic.com
+903,Teresa Robinson,221-993-0772,gabrielgallagher@example.org,"8146 John Plaza, Scottburgh, MN 81463",Neurology,LIC95434,https://www.teresaclinic.com
+904,Ashley Phillips,(754)370-4564x92712,howardeugene@example.net,"0132 Michael Run, Zhanghaven, MD 84754",Ophthalmology,LIC38162,https://www.ashleyclinic.com
+905,Zachary Mitchell,(667)240-4588,vthomas@example.com,"10067 Crane Motorway, South Mariaburgh, MP 62253",Dermatology,LIC47851,https://www.zacharyclinic.com
+906,Bradley Francis,+1-857-232-8473x61228,ricardoreese@example.net,"8582 Watson Island Apt. 339, Robinsonchester, IL 68756",Cardiology,LIC43754,https://www.bradleyclinic.com
+907,Robert Harmon,(950)772-9031,natasha05@example.net,"177 Walters Trace Suite 450, Andersonside, SD 74306",Dermatology,LIC65637,https://www.robertclinic.com
+908,Sheila Santiago,+1-784-474-6502x1348,sarasmith@example.org,"52232 Murphy Views Suite 760, North Michael, PA 27191",Ophthalmology,LIC79131,https://www.sheilaclinic.com
+909,Shawn Sanders,214.204.3428,stephaniefisher@example.com,"7362 Carr Run Suite 218, South Rachelmouth, NH 12343",Cardiology,LIC70978,https://www.shawnclinic.com
+910,Anthony Robertson,4296490647,julia75@example.com,"5259 Edwards Shore Apt. 047, East Jimmouth, NM 86327",Dermatology,LIC30412,https://www.anthonyclinic.com
+911,Elizabeth Moore,(501)665-9412,imaxwell@example.org,"8942 Wood Ports Apt. 234, South Robert, WY 00874",Neurology,LIC78206,https://www.elizabethclinic.com
+912,Marcia Molina DDS,227.390.7578,ydixon@example.com,"07513 Hahn Groves, Port Jamesborough, VA 60545",Orthopedics,LIC13444,https://www.marciaclinic.com
+913,Calvin Nunez,258-576-0531x88868,smithandrew@example.org,"2054 Sandra Terrace Suite 709, Lake Rodneymouth, GA 63242",Cardiology,LIC37689,https://www.calvinclinic.com
+914,Amber Jones,781-489-5179x171,evanacosta@example.org,"867 Aaron Radial Suite 538, East Sean, CA 74352",Urology,LIC21010,https://www.amberclinic.com
+915,Danielle Myers,+1-262-530-0006,hannah66@example.org,"269 Curtis Haven, West Sarahmouth, MA 23951",Pediatrics,LIC29240,https://www.danielleclinic.com
+916,Samantha Perez,001-227-620-6576x7177,qgray@example.net,"1070 Barton Harbors, Davisberg, NV 21446",Dermatology,LIC48619,https://www.samanthaclinic.com
+917,Kayla Mccoy,(211)997-1874x335,zjohnson@example.com,"Unit 9940 Box 3154, DPO AA 80730",Dermatology,LIC78017,https://www.kaylaclinic.com
+918,Rodney Jones,+1-329-243-4018x39511,tracy60@example.com,"9066 Hernandez Parkway, South Elizabeth, NY 41725",Dermatology,LIC96095,https://www.rodneyclinic.com
+919,David Ward,001-637-603-6301x4368,willie27@example.org,"642 Cochran Estate, East Amanda, MP 28189",Orthopedics,LIC56482,https://www.davidclinic.com
+920,Mrs. Tiffany Mullins,793.963.8617,lindsey89@example.net,"3480 Bruce Trafficway, East Joshire, WA 90108",Gynecology,LIC50469,https://www.mrs.clinic.com
+921,Donald Williams,252.614.5667x9840,nathanielnash@example.org,"006 Lance Shoals Apt. 985, Lake George, GA 70738",Psychiatry,LIC86333,https://www.donaldclinic.com
+922,Anthony Williamson,232-358-3858x7232,amberguzman@example.com,"416 Brown Circles Apt. 070, Lake Christina, MT 40625",Pediatrics,LIC38974,https://www.anthonyclinic.com
+923,Nancy Mayer MD,(873)941-8366x898,jamie38@example.net,"135 Nathan Tunnel Apt. 288, South Louis, NH 83227",Orthopedics,LIC62006,https://www.nancyclinic.com
+924,James Norton,685.665.7465,nicholas93@example.org,"348 Calderon Tunnel Suite 328, Kingland, GA 49151",Pediatrics,LIC65338,https://www.jamesclinic.com
+925,Amanda Andrade,(250)351-7574x466,patricia89@example.net,"789 Misty Shore Suite 327, Port Kyle, WY 80680",Neurology,LIC12211,https://www.amandaclinic.com
+926,Dr. Vicki Tanner,493.368.2055x1402,paul95@example.com,"305 Brian Port, West Brittanybury, NJ 40011",Pediatrics,LIC34984,https://www.dr.clinic.com
+927,Paul Reynolds,912.270.4206,robinsonholly@example.net,"78250 Rachel Terrace, Port Jennifershire, IA 68191",Pediatrics,LIC89281,https://www.paulclinic.com
+928,Renee Buchanan,001-989-346-1770x399,jasminemay@example.com,"14539 Henson Plaza Apt. 887, Jacquelineside, ID 60584",Psychiatry,LIC47140,https://www.reneeclinic.com
+929,Grace Evans,+1-508-962-0423x8904,ebrown@example.com,"431 Phillips Drive, East Mistystad, KS 07594",Gynecology,LIC59316,https://www.graceclinic.com
+930,Lisa Little,(482)915-4320x5370,michaelbauer@example.com,"USS Kelly, FPO AP 48769",General Medicine,LIC85614,https://www.lisaclinic.com
+931,Steven Butler,515.739.7102x2571,tnelson@example.com,"296 Martin Summit Apt. 044, Jillbury, OK 49871",Orthopedics,LIC83795,https://www.stevenclinic.com
+932,Barbara Smith,(231)719-3355,wilsonkaitlin@example.org,"5971 Jason Springs Apt. 191, West Benjamin, SD 42028",Neurology,LIC12137,https://www.barbaraclinic.com
+933,Chelsea Hicks,(921)230-1408,perezkayla@example.org,"4443 Ashlee Road Suite 776, New Meghan, FM 12624",Gynecology,LIC46639,https://www.chelseaclinic.com
+934,Arthur Ramirez,797.604.3224x66552,hernandezshelley@example.org,"4334 Renee Lodge, Williamsbury, PR 77116",General Medicine,LIC79093,https://www.arthurclinic.com
+935,Steven Herman,588.444.8699x437,terrirobbins@example.net,"19403 Michael Squares, Port Dana, AS 52200",Dermatology,LIC32643,https://www.stevenclinic.com
+936,Keith Howell,+1-929-345-0708x586,george61@example.org,"45541 Rice Summit, Kellerberg, ME 46630",General Medicine,LIC55653,https://www.keithclinic.com
+937,Evelyn Mann,001-777-590-5275x109,davisjohn@example.org,"5134 Sexton Village, West Graceville, MS 41248",Neurology,LIC71132,https://www.evelynclinic.com
+938,Tanya Fox,271-388-7879x619,paulwhite@example.org,"004 Lewis Village Apt. 196, West Luisberg, AS 88857",Ophthalmology,LIC77000,https://www.tanyaclinic.com
+939,Ryan Patel,5467345441,mfox@example.net,"257 Gerald Unions Apt. 376, Kylieburgh, CA 76900",Ophthalmology,LIC53490,https://www.ryanclinic.com
+940,Charles Davis,+1-644-910-9233x6736,staylor@example.com,"54117 Castro Hills Suite 370, Kevinborough, NJ 76391",Urology,LIC37384,https://www.charlesclinic.com
+941,Jessica Shields,(819)246-5251,wanderson@example.org,"985 Clark Flats Suite 805, Moniqueland, GU 44327",Orthopedics,LIC54369,https://www.jessicaclinic.com
+942,David Wright,001-998-807-6052,powersemily@example.com,"368 Ashley Mount, New Allison, FL 74855",Dermatology,LIC68799,https://www.davidclinic.com
+943,Shelby Morales,(800)298-8817,griffinmisty@example.com,"56662 Lyons Turnpike, Porterton, ME 63997",Psychiatry,LIC62283,https://www.shelbyclinic.com
+944,Terry Smith,919.461.6206x665,jessica59@example.org,"0199 Christopher Highway, Burnsstad, MT 18789",Cardiology,LIC85770,https://www.terryclinic.com
+945,Cynthia Allen,994.530.0332,joshuahaas@example.com,"31553 Robert Dam Apt. 508, Duncanfurt, WV 91727",Pediatrics,LIC45492,https://www.cynthiaclinic.com
+946,Leah Petersen,(832)809-4509,zodonnell@example.com,"63836 Dana Manors, Davidside, IA 41760",Orthopedics,LIC31229,https://www.leahclinic.com
+947,Kevin Mendez,3214128776,deborah06@example.net,"16946 Joseph Meadow, West Taylorport, NY 48594",Gynecology,LIC46762,https://www.kevinclinic.com
+948,Evan Shah,001-559-755-2400x6678,matthewcollins@example.net,"29160 Jessica Square, Jonathanbury, LA 27697",Urology,LIC16968,https://www.evanclinic.com
+949,Corey Hernandez,8145069432,christina67@example.org,"9892 Max Run, Jonesburgh, CA 52864",Pediatrics,LIC21649,https://www.coreyclinic.com
+950,Melissa Smith,+1-501-991-3259x55555,gonzalescorey@example.com,"643 Clark Forge, Jacksonview, KS 63146",Gynecology,LIC87358,https://www.melissaclinic.com
+951,Richard Tran,(323)819-9293,guzmandaniel@example.net,"24915 Anderson Squares Suite 455, West Sylviamouth, GA 10944",Orthopedics,LIC25060,https://www.richardclinic.com
+952,Dustin Harding,231.885.6272x15925,sanchezrobert@example.com,"8276 Regina Streets, Crawfordhaven, AS 04143",General Medicine,LIC29642,https://www.dustinclinic.com
+953,Crystal Jacobs,(726)619-8973,michele74@example.net,"41929 Theresa Row, Fowlerburgh, MH 46110",Pediatrics,LIC18586,https://www.crystalclinic.com
+954,Jason Pratt,+1-787-469-1529x714,hstrickland@example.org,"907 Alexis Spring Suite 364, Thomasshire, AL 29503",Pediatrics,LIC84852,https://www.jasonclinic.com
+955,Lisa Guerra,001-482-608-7824x091,barrettteresa@example.org,"668 Smith Throughway, Floresfurt, MO 66925",Neurology,LIC29799,https://www.lisaclinic.com
+956,Kaitlin Watson,(986)924-0732,bcortez@example.org,"183 Waters Loaf Apt. 391, West Chasemouth, MH 88318",Psychiatry,LIC25797,https://www.kaitlinclinic.com
+957,Wesley Smith,612.566.0463,donna35@example.net,"839 Webb Ridges Apt. 177, Hamiltonport, GA 33823",Pediatrics,LIC54748,https://www.wesleyclinic.com
+958,Ryan Ellis,+1-740-505-2920x583,wortega@example.net,"Unit 5822 Box 4399, DPO AA 71402",Ophthalmology,LIC93100,https://www.ryanclinic.com
+959,Caitlin Graham,863-923-4915,pughkari@example.org,"32034 Garza Landing Suite 357, Lindaport, OR 27708",General Medicine,LIC69531,https://www.caitlinclinic.com
+960,Taylor Wright,001-660-324-1598x70324,jamesscott@example.net,"185 Daniel Mission, Lake Meghan, SD 05939",Ophthalmology,LIC10225,https://www.taylorclinic.com
+961,Melissa Byrd,3363727769,elizabeth64@example.com,"70007 Janet Greens, Alexandriachester, MD 84314",Pediatrics,LIC60758,https://www.melissaclinic.com
+962,Carrie Rollins,948.346.8997x569,lolson@example.com,"91551 Angela Forest Suite 065, Port Jessica, AZ 25876",General Medicine,LIC24821,https://www.carrieclinic.com
+963,Terry Fernandez,001-687-721-5523x795,lhaynes@example.org,"49335 Jennifer Valleys, Joshuachester, UT 87133",Orthopedics,LIC58500,https://www.terryclinic.com
+964,Robert Park,(234)649-3739x581,qmullins@example.net,"300 Heather Parkways Apt. 156, New Whitney, FL 28125",Psychiatry,LIC69995,https://www.robertclinic.com
+965,Jeffery Garza,750.445.2721x44305,ramirezsherri@example.net,"60196 Melissa Mill Apt. 954, North Amyport, WA 70705",General Medicine,LIC58018,https://www.jefferyclinic.com
+966,Noah Jackson,+1-839-214-3675x32126,tonyatorres@example.com,"202 David Path Suite 342, South Jaimemouth, PR 42491",Dermatology,LIC56508,https://www.noahclinic.com
+967,Alice Nelson,6062615440,nancycook@example.com,"677 James Knoll, New Danielshire, WI 50855",Dermatology,LIC57416,https://www.aliceclinic.com
+968,Daniel Marsh,475-229-5400,ufoster@example.org,"12272 Jennifer Crossroad Apt. 317, New Megan, VA 98134",General Medicine,LIC54912,https://www.danielclinic.com
+969,Samantha Bowman,893-669-7709,swansonkristin@example.com,"863 Edward Grove Suite 812, Gallegosborough, NV 82810",Orthopedics,LIC76476,https://www.samanthaclinic.com
+970,Ashley Rodgers,650-709-6281,esparks@example.com,"10548 Stephanie Islands, Taylormouth, PW 15990",Pediatrics,LIC74013,https://www.ashleyclinic.com
+971,Emily Decker,690.624.2386,amandapetersen@example.com,"43683 Herrera Highway Suite 570, Westborough, TN 46458",Orthopedics,LIC55378,https://www.emilyclinic.com
+972,Elizabeth Ortega,(772)405-4414,ndelgado@example.net,"4206 Foster Plain, East Lancechester, NM 68232",Psychiatry,LIC65963,https://www.elizabethclinic.com
+973,Bobby Cook,(638)699-8396,stephaniekane@example.net,"5466 Strong Plains Suite 757, Lake Heatherburgh, DE 21013",Cardiology,LIC33820,https://www.bobbyclinic.com
+974,Paul Fry,456.375.7232,smithsarah@example.net,"553 Harvey Forges Apt. 335, West Michaelview, OH 79692",Orthopedics,LIC90074,https://www.paulclinic.com
+975,Zachary Moore,847.925.6705x9543,gloriaramirez@example.net,"56248 Rodriguez Parkways Apt. 262, Donaldport, FL 23684",Urology,LIC99946,https://www.zacharyclinic.com
+976,Jennifer Kim,444.938.5492x8969,monica03@example.com,"918 Perkins Lock, New Anthonyborough, ND 05067",Dermatology,LIC63281,https://www.jenniferclinic.com
+977,Cindy Tran,967-307-1519,alyssafields@example.org,"349 David Park Apt. 809, North Stevenside, WA 84113",Pediatrics,LIC23151,https://www.cindyclinic.com
+978,Carol Williams,001-553-729-5211x48104,rosariomichele@example.org,"56175 Oconnor Mews Suite 702, East Corey, VT 50731",Psychiatry,LIC83971,https://www.carolclinic.com
+979,Brandon Brewer,+1-275-299-6696x3523,cameronsmith@example.org,"6486 Tammy Island Apt. 725, East Crystalstad, LA 89343",Orthopedics,LIC97672,https://www.brandonclinic.com
+980,Kimberly Wood,643.972.2778,martinezdanny@example.com,"862 Dean Tunnel, Jessechester, NJ 00838",Psychiatry,LIC88241,https://www.kimberlyclinic.com
+981,Emily Harvey,001-430-951-7457,robyn32@example.net,"5484 Jenna Stream Apt. 013, New Desireeland, AR 44566",Psychiatry,LIC53503,https://www.emilyclinic.com
+982,Kevin Gibson,393-410-7695x828,marie88@example.net,"212 Gabrielle Overpass, East Lynn, WI 25683",Ophthalmology,LIC12421,https://www.kevinclinic.com
+983,Kenneth Harrison,924-405-1148x97108,qstephens@example.net,"091 Little Island, Lake Colton, SC 35587",Psychiatry,LIC91847,https://www.kennethclinic.com
+984,Michael Jones,3593332602,nicolewarner@example.org,"75281 Tracey Mission Suite 184, Port Patricia, AL 49639",Urology,LIC67978,https://www.michaelclinic.com
+985,Michael Curtis,411-316-4609,michaelperez@example.org,"861 Peters Greens Suite 113, Ronaldmouth, TX 76513",Orthopedics,LIC25878,https://www.michaelclinic.com
+986,Johnny Anderson,396.795.8979,thompsonandrew@example.com,"266 Maurice Orchard, Port Hollyton, MN 04281",General Medicine,LIC68386,https://www.johnnyclinic.com
+987,Dr. Jamie Pratt,918.784.3298,heather35@example.com,"89227 Aaron Gateway, Lake Whitney, CT 78590",Pediatrics,LIC29549,https://www.dr.clinic.com
+988,Shannon Villanueva,560.419.5699,millerrobin@example.net,"0748 Smith Lodge Suite 267, Grahammouth, PW 51958",General Medicine,LIC41615,https://www.shannonclinic.com
+989,Melissa Barajas,(377)603-8322,johnsonjerry@example.net,"491 Samuel Brook, New Gerald, MI 58150",Ophthalmology,LIC30737,https://www.melissaclinic.com
+990,Michael Harris,001-427-992-8204,owenskirsten@example.org,"0107 Steven Harbor Apt. 006, Christopherside, MA 98036",Cardiology,LIC36616,https://www.michaelclinic.com
+991,Jennifer Cobb,001-231-986-3700x04166,michaelhansen@example.org,"85384 Phillip Courts Suite 722, East Chadside, IL 12895",Urology,LIC88877,https://www.jenniferclinic.com
+992,Christopher Porter,435-402-6974x858,billy20@example.net,"6229 Young Lodge, Michelleborough, WY 33706",Cardiology,LIC26828,https://www.christopherclinic.com
+993,Anthony Sanchez,733.604.3070,lisawright@example.org,"024 Pierce Mountain, New Michaelton, NY 05930",Urology,LIC33036,https://www.anthonyclinic.com
+994,Kayla Jones,367.215.7815,casey26@example.org,"1920 Jared Lodge, West Graceside, MA 44473",Ophthalmology,LIC72081,https://www.kaylaclinic.com
+995,Michael Riley,897-759-8988x70262,benjamin64@example.net,"999 Johns Plains, Smithport, TX 67319",Psychiatry,LIC54590,https://www.michaelclinic.com
+996,Dawn Jimenez,864.490.5013x29022,jerry41@example.org,"5073 Christine Mount, East Timothy, TX 48647",Pediatrics,LIC42580,https://www.dawnclinic.com
+997,Shawn Lawson,805.962.9132x3667,mccormickpaige@example.net,"007 Rangel Mountain Suite 411, Walkerfort, AL 78132",Urology,LIC50415,https://www.shawnclinic.com
+998,Tyler Brown,+1-922-355-7484x794,spalmer@example.com,"4859 Kathryn Throughway, Port Tina, KS 70505",Gynecology,LIC17156,https://www.tylerclinic.com
+999,David Sanders MD,344.255.0120x058,michael63@example.com,"11113 Holly Wall, Brownberg, RI 09484",Urology,LIC13296,https://www.davidclinic.com
+1000,Ryan Tyler,+1-847-305-8016,robert18@example.org,"56808 Michael Shore, Wagnermouth, VI 52197",Dermatology,LIC50957,https://www.ryanclinic.com
